@@ -1,0 +1,492 @@
+{
+  "version": "2.6",
+  "builtIn": 50,
+  "chapters": {
+    "1": 6,
+    "2": 20,
+    "3-4": 12,
+    "5": 12
+  },
+  "studyOrder": {
+    "3-4": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      5,
+      7,
+      8,
+      9,
+      11,
+      10,
+      12
+    ],
+    "5": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      9,
+      11,
+      12
+    ]
+  },
+  "images": [
+    {
+      "id": "img-1-01",
+      "chapter": "1",
+      "title": "人類發展的基本概念",
+      "src": "assets/ch01_01.jpg",
+      "thumbnail": "assets/thumbs/ch01_01.webp",
+      "originalNumber": null,
+      "category": "核心概念"
+    },
+    {
+      "id": "img-1-02",
+      "chapter": "1",
+      "title": "生命全程的八個發展時期",
+      "src": "assets/ch01_02.jpg",
+      "thumbnail": "assets/thumbs/ch01_02.webp",
+      "originalNumber": null,
+      "category": "發展分期"
+    },
+    {
+      "id": "img-1-03",
+      "chapter": "1",
+      "title": "影響人類發展的因素",
+      "src": "assets/ch01_03.jpg",
+      "thumbnail": "assets/thumbs/ch01_03.webp",
+      "originalNumber": null,
+      "category": "影響因素"
+    },
+    {
+      "id": "img-1-04",
+      "chapter": "1",
+      "title": "發展的時機：關鍵期、敏感期與可塑性",
+      "src": "assets/ch01_04.jpg",
+      "thumbnail": "assets/thumbs/ch01_04.webp",
+      "originalNumber": null,
+      "category": "發展時機"
+    },
+    {
+      "id": "img-1-05",
+      "chapter": "1",
+      "title": "Baltes 的生命全程發展取向",
+      "src": "assets/ch01_05.jpg",
+      "thumbnail": "assets/thumbs/ch01_05.webp",
+      "originalNumber": null,
+      "category": "理論與學者"
+    },
+    {
+      "id": "img-1-06",
+      "chapter": "1",
+      "title": "教檢素養導向案例應用圖卡",
+      "src": "assets/ch01_06.jpg",
+      "thumbnail": "assets/thumbs/ch01_06.webp",
+      "originalNumber": null,
+      "category": "教檢應用"
+    },
+    {
+      "id": "img-2-01",
+      "chapter": "2",
+      "title": "人類發展理論總覽",
+      "src": "assets/ch02_01.jpg",
+      "thumbnail": "assets/thumbs/ch02_01.webp",
+      "originalNumber": null,
+      "category": "發展理論總覽"
+    },
+    {
+      "id": "img-2-02",
+      "chapter": "2",
+      "title": "佛洛依德：人格結構與心理防衛機制",
+      "src": "assets/ch02_02.jpg",
+      "thumbnail": "assets/thumbs/ch02_02.webp",
+      "originalNumber": null,
+      "category": "心理分析與心理社會發展"
+    },
+    {
+      "id": "img-2-03",
+      "chapter": "2",
+      "title": "佛洛依德：性心理發展五階段",
+      "src": "assets/ch02_03.jpg",
+      "thumbnail": "assets/thumbs/ch02_03.webp",
+      "originalNumber": null,
+      "category": "心理分析與心理社會發展"
+    },
+    {
+      "id": "img-2-04",
+      "chapter": "2",
+      "title": "艾瑞克森：心理社會發展八階段",
+      "src": "assets/ch02_04.jpg",
+      "thumbnail": "assets/thumbs/ch02_04.webp",
+      "originalNumber": null,
+      "category": "心理分析與心理社會發展"
+    },
+    {
+      "id": "img-2-05",
+      "chapter": "2",
+      "title": "巴夫洛夫：古典制約與情緒學習",
+      "src": "assets/ch02_05.jpg",
+      "thumbnail": "assets/thumbs/ch02_05.webp",
+      "originalNumber": null,
+      "category": "行為與社會學習"
+    },
+    {
+      "id": "img-2-06",
+      "chapter": "2",
+      "title": "桑代克 × 史金納：效果律與操作制約",
+      "src": "assets/ch02_06.jpg",
+      "thumbnail": "assets/thumbs/ch02_06.webp",
+      "originalNumber": null,
+      "category": "行為與社會學習"
+    },
+    {
+      "id": "img-2-07",
+      "chapter": "2",
+      "title": "史金納：增強安排與行為應用",
+      "src": "assets/ch02_07.jpg",
+      "thumbnail": "assets/thumbs/ch02_07.webp",
+      "originalNumber": null,
+      "category": "行為與社會學習"
+    },
+    {
+      "id": "img-2-08",
+      "chapter": "2",
+      "title": "班杜拉：觀察學習與社會認知理論",
+      "src": "assets/ch02_08.jpg",
+      "thumbnail": "assets/thumbs/ch02_08.webp",
+      "originalNumber": null,
+      "category": "行為與社會學習"
+    },
+    {
+      "id": "img-2-09",
+      "chapter": "2",
+      "title": "皮亞傑：認知建構的核心機制",
+      "src": "assets/ch02_09.jpg",
+      "thumbnail": "assets/thumbs/ch02_09.webp",
+      "originalNumber": null,
+      "category": "認知與社會文化發展"
+    },
+    {
+      "id": "img-2-10",
+      "chapter": "2",
+      "title": "皮亞傑：認知發展四階段",
+      "src": "assets/ch02_10.jpg",
+      "thumbnail": "assets/thumbs/ch02_10.webp",
+      "originalNumber": null,
+      "category": "認知與社會文化發展"
+    },
+    {
+      "id": "img-2-11",
+      "chapter": "2",
+      "title": "維高斯基：近側發展區、鷹架與私語",
+      "src": "assets/ch02_11.jpg",
+      "thumbnail": "assets/thumbs/ch02_11.webp",
+      "originalNumber": null,
+      "category": "認知與社會文化發展"
+    },
+    {
+      "id": "img-2-12",
+      "chapter": "2",
+      "title": "布朗芬布列納：生物生態學理論",
+      "src": "assets/ch02_12.jpg",
+      "thumbnail": "assets/thumbs/ch02_12.webp",
+      "originalNumber": null,
+      "category": "環境與文化發展"
+    },
+    {
+      "id": "img-2-13",
+      "chapter": "2",
+      "title": "米德 × 勞倫茲：文化與動物行為學",
+      "src": "assets/ch02_13.jpg",
+      "thumbnail": "assets/thumbs/ch02_13.webp",
+      "originalNumber": null,
+      "category": "環境與文化發展"
+    },
+    {
+      "id": "img-2-14",
+      "chapter": "2",
+      "title": "馬斯洛：需求層級與自我實現",
+      "src": "assets/ch02_14.jpg",
+      "thumbnail": "assets/thumbs/ch02_14.webp",
+      "originalNumber": null,
+      "category": "人本與個體心理學"
+    },
+    {
+      "id": "img-2-15",
+      "chapter": "2",
+      "title": "羅吉斯：個人中心取向與助人關係",
+      "src": "assets/ch02_15.jpg",
+      "thumbnail": "assets/thumbs/ch02_15.webp",
+      "originalNumber": null,
+      "category": "人本與個體心理學"
+    },
+    {
+      "id": "img-2-16",
+      "chapter": "2",
+      "title": "阿德勒：個體心理學與自卑補償",
+      "src": "assets/ch02_16.jpg",
+      "thumbnail": "assets/thumbs/ch02_16.webp",
+      "originalNumber": null,
+      "category": "人本與個體心理學"
+    },
+    {
+      "id": "img-2-17",
+      "chapter": "2",
+      "title": "兒童發展研究方法與資料蒐集",
+      "src": "assets/ch02_17.jpg",
+      "thumbnail": "assets/thumbs/ch02_17.webp",
+      "originalNumber": null,
+      "category": "研究方法與設計"
+    },
+    {
+      "id": "img-2-18",
+      "chapter": "2",
+      "title": "橫斷、縱貫與序列研究設計",
+      "src": "assets/ch02_18.jpg",
+      "thumbnail": "assets/thumbs/ch02_18.webp",
+      "originalNumber": null,
+      "category": "研究方法與設計"
+    },
+    {
+      "id": "img-2-19",
+      "chapter": "2",
+      "title": "佛洛依德 × 艾瑞克森 × 皮亞傑發展階段比較",
+      "src": "assets/ch02_19.jpg",
+      "thumbnail": "assets/thumbs/ch02_19.webp",
+      "originalNumber": null,
+      "category": "理論比較與整合"
+    },
+    {
+      "id": "img-2-20",
+      "chapter": "2",
+      "title": "人類發展理論總整合與教檢應用",
+      "src": "assets/ch02_20.jpg",
+      "thumbnail": "assets/thumbs/ch02_20.webp",
+      "originalNumber": null,
+      "category": "理論比較與整合"
+    },
+    {
+      "id": "img-3-01",
+      "chapter": "3-4",
+      "title": "產前發展與出生風險",
+      "src": "assets/ch03_04_01.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_01.webp",
+      "originalNumber": "01",
+      "category": "產前發展與身體成長"
+    },
+    {
+      "id": "img-4-01",
+      "chapter": "3-4",
+      "title": "身體成長原則與影響因素",
+      "src": "assets/ch03_04_02.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_02.webp",
+      "originalNumber": "02",
+      "category": "產前發展與身體成長"
+    },
+    {
+      "id": "img-4-02",
+      "chapter": "3-4",
+      "title": "神經元結構與訊息傳遞",
+      "src": "assets/ch03_04_03.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_03.webp",
+      "originalNumber": "03",
+      "category": "神經元與神經系統成熟"
+    },
+    {
+      "id": "img-4-03",
+      "chapter": "3-4",
+      "title": "神經系統成熟與大腦可塑性",
+      "src": "assets/ch03_04_04.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_04.webp",
+      "originalNumber": "04",
+      "category": "神經元與神經系統成熟"
+    },
+    {
+      "id": "img-4-04",
+      "chapter": "3-4",
+      "title": "四大腦葉與前額葉執行功能",
+      "src": "assets/ch03_04_05.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_05.webp",
+      "originalNumber": "05",
+      "category": "大腦構造與認知情緒功能"
+    },
+    {
+      "id": "img-4-05",
+      "chapter": "3-4",
+      "title": "腦部重要構造與基本功能",
+      "src": "assets/ch03_04_06.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_06.webp",
+      "originalNumber": "06",
+      "category": "大腦構造與認知情緒功能"
+    },
+    {
+      "id": "img-4-06",
+      "chapter": "3-4",
+      "title": "邊緣系統：情緒、記憶與行為",
+      "src": "assets/ch03_04_07.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_07.webp",
+      "originalNumber": "07",
+      "category": "大腦構造與認知情緒功能"
+    },
+    {
+      "id": "img-4-07",
+      "chapter": "3-4",
+      "title": "腦側化與語言發展",
+      "src": "assets/ch03_04_08.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_08.webp",
+      "originalNumber": "08",
+      "category": "大腦構造與認知情緒功能"
+    },
+    {
+      "id": "img-4-08",
+      "chapter": "3-4",
+      "title": "感覺系統與知覺發展",
+      "src": "assets/ch03_04_09.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_09.webp",
+      "originalNumber": "09",
+      "category": "感覺知覺與動作發展"
+    },
+    {
+      "id": "img-4-09",
+      "chapter": "3-4",
+      "title": "視覺懸崖與知覺－動作發展",
+      "src": "assets/ch03_04_10.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_10.webp",
+      "originalNumber": "10",
+      "category": "感覺知覺與動作發展"
+    },
+    {
+      "id": "img-4-10",
+      "chapter": "3-4",
+      "title": "原始反射與動作發展",
+      "src": "assets/ch03_04_11.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_11.webp",
+      "originalNumber": "11",
+      "category": "感覺知覺與動作發展"
+    },
+    {
+      "id": "img-4-11",
+      "chapter": "3-4",
+      "title": "教檢應用：兒童行為、大腦功能與發展機制",
+      "src": "assets/ch03_04_12.jpg",
+      "thumbnail": "assets/thumbs/ch03_04_12.webp",
+      "originalNumber": "12",
+      "category": "教檢應用與概念整合"
+    },
+    {
+      "id": "img-5-01",
+      "chapter": "5",
+      "title": "皮亞傑的認知建構機制",
+      "src": "assets/ch05_01.jpg",
+      "thumbnail": "assets/thumbs/ch05_01.webp",
+      "originalNumber": "01",
+      "category": "皮亞傑的認知建構機制"
+    },
+    {
+      "id": "img-5-02",
+      "chapter": "5",
+      "title": "感覺動作期的六個次階段與循環反應",
+      "src": "assets/ch05_02.jpg",
+      "thumbnail": "assets/thumbs/ch05_02.webp",
+      "originalNumber": "02",
+      "category": "皮亞傑的認知建構機制"
+    },
+    {
+      "id": "img-5-03",
+      "chapter": "5",
+      "title": "物體恆存與延宕模仿",
+      "src": "assets/ch05_03.jpg",
+      "thumbnail": "assets/thumbs/ch05_03.webp",
+      "originalNumber": "03",
+      "category": "皮亞傑的認知建構機制"
+    },
+    {
+      "id": "img-5-04",
+      "chapter": "5",
+      "title": "三歲前的語言發展歷程",
+      "src": "assets/ch05_04.jpg",
+      "thumbnail": "assets/thumbs/ch05_04.webp",
+      "originalNumber": "04",
+      "category": "三歲前語言發展歷程與結構"
+    },
+    {
+      "id": "img-5-05",
+      "chapter": "5",
+      "title": "語言組成四要素",
+      "src": "assets/ch05_05.jpg",
+      "thumbnail": "assets/thumbs/ch05_05.webp",
+      "originalNumber": "05",
+      "category": "三歲前語言發展歷程與結構"
+    },
+    {
+      "id": "img-5-06",
+      "chapter": "5",
+      "title": "語言的基本單位：音位、音節、語素與詞",
+      "src": "assets/ch05_06.jpg",
+      "thumbnail": "assets/thumbs/ch05_06.webp",
+      "originalNumber": "06",
+      "category": "三歲前語言發展歷程與結構"
+    },
+    {
+      "id": "img-5-07",
+      "chapter": "5",
+      "title": "語言習得的三大理論",
+      "src": "assets/ch05_07.jpg",
+      "thumbnail": "assets/thumbs/ch05_07.webp",
+      "originalNumber": "07",
+      "category": "語言習得理論"
+    },
+    {
+      "id": "img-5-08",
+      "chapter": "5",
+      "title": "Chomsky 的 LAD 與 Slobin 的 LMC",
+      "src": "assets/ch05_08.jpg",
+      "thumbnail": "assets/thumbs/ch05_08.webp",
+      "originalNumber": "08",
+      "category": "語言習得理論"
+    },
+    {
+      "id": "img-5-09",
+      "chapter": "5",
+      "title": "維高斯基：語言內化與思維發展",
+      "src": "assets/ch05_09.jpg",
+      "thumbnail": "assets/thumbs/ch05_09.webp",
+      "originalNumber": "09",
+      "category": "語言思維與社會互動"
+    },
+    {
+      "id": "img-5-10",
+      "chapter": "5",
+      "title": "皮亞傑：自我中心語言與社會性語言",
+      "src": "assets/ch05_10.jpg",
+      "thumbnail": "assets/thumbs/ch05_10.webp",
+      "originalNumber": "10",
+      "category": "語言思維與社會互動"
+    },
+    {
+      "id": "img-5-11",
+      "chapter": "5",
+      "title": "皮亞傑與維高斯基的語言發展觀點比較",
+      "src": "assets/ch05_11.jpg",
+      "thumbnail": "assets/thumbs/ch05_11.webp",
+      "originalNumber": "11",
+      "category": "語言思維與社會互動"
+    },
+    {
+      "id": "img-5-12",
+      "chapter": "5",
+      "title": "影響三歲前語言發展的因素",
+      "src": "assets/ch05_12.jpg",
+      "thumbnail": "assets/thumbs/ch05_12.webp",
+      "originalNumber": "12",
+      "category": "語言發展的影響因素"
+    }
+  ]
+}
