@@ -1,0 +1,36 @@
+<!doctype html><html lang="zh-Hant"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#f5f8f6">
+<title>兒童發展・期中複習站</title>
+<meta name="description" content="兒童發展第一至第五章期中複習：章節重點、圖片筆記、歷屆考古題、錯題本與申論題。">
+<link rel="stylesheet" href="style.css">
+</head><body>
+<div class="shell">
+<aside class="sidebar" id="sidebar">
+  <div class="brand"><div class="brand-logo">育</div><div class="brand-name"><strong>兒童發展</strong><small>MIDTERM STUDY SPACE</small></div><button id="navClose" class="icon-btn sidebar-close" aria-label="關閉選單">×</button></div>
+  <div class="side-tag"><span class="live-dot"></span> 期中考・第 1～5 章</div>
+  <div class="side-heading">學習空間</div>
+  <nav id="sideNav" class="nav-list" aria-label="主要導覽">
+    <button data-page="dashboard" class="nav-item active"><span class="nav-ico">◫</span> 學習總覽</button>
+    <button data-page="notes" class="nav-item"><span class="nav-ico">▤</span> 章節重點筆記</button>
+    <button data-page="gallery" class="nav-item"><span class="nav-ico">▧</span> 圖片筆記庫</button>
+    <button data-page="quiz" class="nav-item"><span class="nav-ico">◉</span> 題庫練習</button>
+    <button data-page="mistakes" class="nav-item"><span class="nav-ico">↻</span> 錯題與收藏</button>
+    <button data-page="essays" class="nav-item"><span class="nav-ico">✎</span> 申論練習</button>
+  </nav>
+  <div class="side-heading">其他</div>
+  <nav class="nav-list"><button data-page="settings" class="nav-item"><span class="nav-ico">⚙</span> 資料與設定</button></nav>
+  <div class="sidebar-bottom"><span>先理解，再做題。</span><small>後續章節可逐步加入，學習紀錄保留於本機。</small></div>
+</aside>
+<div id="shade" class="shade" hidden></div>
+<div class="site-main">
+<header class="topbar">
+  <button id="navToggle" class="icon-btn hamburger" aria-label="開啟選單">☰</button>
+  <div class="crumb">學習計畫 <span>／</span> <strong id="crumbCurrent">學習總覽</strong></div>
+  <div class="top-actions"><span class="top-pill">CH. 01—05</span><button id="themeToggle" class="icon-btn" aria-label="切換深淺色">◐</button></div>
+</header>
+<main id="page" tabindex="-1" aria-live="polite"></main>
+<footer class="foot"><span>兒童發展 · 期中考複習版 v1.0</span><span>依課堂教材與歷屆試題整理</span></footer>
+</div></div>
+<div id="modalRoot"></div><div id="toastRoot" class="toast-root" aria-live="polite"></div>
+<script src="data/chapters.js"></script><script src="data/notes.js"></script><script src="data/gallery.js"></script><script src="data/questions.js"></script><script src="app.js"></script>
+</body></html>
