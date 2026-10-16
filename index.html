@@ -193,6 +193,89 @@ body{background:radial-gradient(circle at 20% 0%,#fff0f5 0,transparent 29%),radi
 .gallery-card .gallery-actions{margin-top:auto}
 .gallery-links{margin-top:14px;border-top:1px solid var(--line);padding-top:12px}.gallery-links strong{font-size:12px}.gallery-links .gallery-actions{margin-top:7px}
 @media(max-width:650px){.gallery-card .img-cover{height:170px}.gallery-sortbar>small{margin-left:0}.gallery-card .gallery-foot{min-height:208px}.gallery-chapter-title h2{font-size:16px}}
+/* v2.6.1 typography/readability review: improve legibility and narrow viewport flow */
+:root{--muted:#665a73}
+[data-theme="dark"]{--muted:#d2c3da}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{font-size:15px;line-height:1.75}
+.page-sub{font-size:14px;line-height:1.75;max-width:72ch}
+.crumb{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.crumb strong{overflow-wrap:anywhere}
+.foot{font-size:12px;line-height:1.65}
+.tiny{font-size:12.5px}
+.caps{font-size:11px}
+.chapter-card h3{font-size:16px;line-height:1.55}
+.chapter-card .desc{font-size:13px;line-height:1.72}
+.chapter-card .chapter-label{font-size:11px}
+.note-title-wrap{overflow-wrap:anywhere}
+.note-title-wrap h3{font-size:16px;line-height:1.55}
+.note-title-wrap p{font-size:13px;line-height:1.78}
+.note-trap{font-size:13px;line-height:1.75}
+.source-mini{font-size:11.5px}
+.note-card .details{font-size:14.5px;line-height:1.85}
+.q-stem{overflow-wrap:anywhere;line-height:1.8}
+.q-context{font-size:13px;line-height:1.75}
+.option{overflow-wrap:anywhere;line-height:1.75}
+.quiz-selection-note,.quiz-explain{font-size:13px;line-height:1.72}
+.chapter-choice{min-width:0;overflow-wrap:anywhere}
+.chapter-choice strong{font-size:13px}
+.chapter-choice small{font-size:12px;line-height:1.55}
+.gallery-overview{line-height:1.65}
+.gallery-overview span{font-size:12.5px}
+.gallery-section-title span,.gallery-chapter-title span{font-size:12.5px}
+.gallery-card .gallery-foot h3{font-size:15px;line-height:1.58;overflow-wrap:anywhere}
+.gallery-card .gallery-summary{font-size:12.5px;line-height:1.7;overflow-wrap:anywhere}
+.gallery-label-row small{font-size:11.5px}
+.gallery-keyword{font-size:11px;line-height:1.6}
+.gallery-related{font-size:12px;line-height:1.7}
+.gallery-sortbar>small{font-size:12px;line-height:1.7}
+.gallery-card .gallery-foot{min-height:204px}
+.gallery-actions .btn{white-space:normal;overflow-wrap:anywhere;text-align:center}
+.gallery-swipe-hint{display:none;color:var(--muted);font-size:12px}
+.modal-head{min-width:0}
+.modal-head>div:first-child{min-width:0;overflow-wrap:anywhere}
+.modal-head strong{line-height:1.65;overflow-wrap:anywhere}
+.modal-keywords{font-size:13px;line-height:1.75;overflow-wrap:anywhere}
+.setting-item p{font-size:13px;line-height:1.72}
+.setting-item{min-width:0}
+@media(max-width:650px){
+  .gallery-chapter-toolbar{display:block;margin-bottom:14px;min-width:0}
+  .gallery-chapter-toolbar .tabs{display:flex;flex-wrap:nowrap;overflow-x:auto;max-width:100%;gap:8px;scrollbar-width:thin;scrollbar-color:#cba6da transparent;padding:1px 1px 8px;-webkit-overflow-scrolling:touch}
+  .gallery-chapter-toolbar .chip{white-space:nowrap;flex:0 0 auto}
+  .gallery-swipe-hint{display:block;margin-top:2px}
+  .gallery-sortbar{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8px}
+  .gallery-sortbar>span,.gallery-sortbar>small{grid-column:1/-1;margin:0}
+  .gallery-sortbar>.chip{white-space:normal;line-height:1.5;min-height:39px;text-align:center}
+  .gallery-chapter-title{flex-wrap:wrap;gap:5px 14px}
+  .gallery-chapter-title h2{font-size:16px;line-height:1.55;min-width:0;overflow-wrap:anywhere}
+  .gallery-section-title{flex-wrap:wrap;gap:4px 8px}
+  .gallery-card .gallery-foot{padding:12px;min-height:220px}
+  .gallery-card .gallery-foot h3{font-size:14px;line-height:1.58}
+  .gallery-card .gallery-summary{font-size:12px;line-height:1.75}
+  .gallery-keyword{font-size:10.5px}
+  .gallery-overview{gap:5px 9px;padding:12px 14px}
+  .modal-head{align-items:flex-start;flex-wrap:wrap;gap:9px}
+  .modal-buttons{margin-left:auto}
+  .setting-item{flex-wrap:wrap;align-items:flex-start}
+  .setting-item>div{min-width:0}
+  .page-sub{font-size:13.5px}
+  .note-title-wrap p{font-size:13px}
+  .note-title-wrap h3{font-size:15px}
+  .chapter-choice strong{font-size:13px}
+  .chapter-choice small{font-size:12px}
+  .q-stem{font-size:16px}
+}
+@media(max-width:360px){
+  .topbar{gap:8px;padding:0 12px}
+  #page{padding-left:13px;padding-right:13px}
+  .page-title{font-size:24px}
+  .gallery-grid{gap:9px}
+  .gallery-card .gallery-foot{padding:10px;min-height:240px}
+  .gallery-card .gallery-foot h3{font-size:13.5px}
+  .gallery-card .gallery-summary{font-size:11.7px}
+  .gallery-card .img-cover{height:140px}
+  .chapter-choice{padding:9px}
+}
 </style>
 </head><body>
 <div class="shell">
@@ -220,7 +303,7 @@ body{background:radial-gradient(circle at 20% 0%,#fff0f5 0,transparent 29%),radi
   <div class="top-actions"><span class="top-pill">10 CHAPTER GROUPS</span><button id="themeToggle" class="icon-btn" aria-label="切換深淺色">◐</button></div>
 </header>
 <main id="page" tabindex="-1" aria-live="polite"></main>
-<footer class="foot"><span>兒童發展 · 全範圍複習版 v2.0</span><span>依課堂教材與歷屆試題整理</span></footer>
+<footer class="foot"><span>兒童發展 · 全範圍複習版 v2.6.1</span><span>依課堂教材與歷屆試題整理</span></footer>
 </div></div>
 <div id="modalRoot"></div><div id="toastRoot" class="toast-root" aria-live="polite"></div>
 <script>
@@ -332,7 +415,7 @@ function gallery(){
  }).join('');
  return `${pageHead('VISUAL NOTES','圖片筆記庫','前五章 50 張原始圖卡已內建，依知識主題閱讀，或切換原始編號查找。')}
   <div class="gallery-overview"><strong>已內建 ${built} 張</strong><span>另外 ${uploaded} 張儲存於此裝置 · ${G.length-built-uploaded} 張待匯入</span><span class="gallery-overview-hint">原圖隨網站發布，點選圖片可放大閱讀</span></div>
-  <div class="toolbar"><div class="tabs">${chip('全部章節',state.galleryChapter==='all','galleryChapter','all')}${C.map(x=>chip(x.label,state.galleryChapter===x.id,'galleryChapter',x.id)).join('')}</div></div>
+  <div class="toolbar gallery-chapter-toolbar"><div class="tabs">${chip('全部章節',state.galleryChapter==='all','galleryChapter','all')}${C.map(x=>chip(x.label,state.galleryChapter===x.id,'galleryChapter',x.id)).join('')}</div><span class="gallery-swipe-hint">左右滑動，查看其他章節 ↔</span></div>
   <div class="gallery-filterbar"><div class="tabs">${chip('全部類型',state.galleryKind==='all','galleryKind','all')}${chip('核心知識',state.galleryKind==='core','galleryKind','core')}${chip('教檢應用',state.galleryKind==='application','galleryKind','application')}</div>
     <input class="gallery-search" id="gallerySearch" type="search" autocomplete="off" placeholder="搜尋主題、學者、概念…" value="${e(state.gallerySearch)}" aria-label="搜尋圖片筆記"></div>
   <div class="gallery-sortbar" aria-label="圖片筆記排序"><span>閱讀排序</span>${chip('知識學習順序',state.gallerySort==='study','gallerySort','study')}${chip('原始圖卡編號',state.gallerySort==='number','gallerySort','number')}<small>排序不改變圖卡原始編號</small></div>
