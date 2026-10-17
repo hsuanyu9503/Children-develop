@@ -1428,5 +1428,516 @@
       "img-5-04"
     ],
     "thumb": "assets/thumbs/ch05_12.webp"
+  },
+  {
+    "id": "img-6-01",
+    "chapter": "6",
+    "title": "情緒的功能與發展歷程",
+    "filename": "ch06_01.jpg",
+    "originalNumber": "01",
+    "studyOrder": 1,
+    "category": "情緒、氣質與自我發展",
+    "kind": "core",
+    "keywords": [
+      "情緒功能",
+      "情緒發展",
+      "情緒表達",
+      "社會反應",
+      "0～36個月",
+      "生理成熟",
+      "社會互動"
+    ],
+    "summary": "情緒功能、0～36個月情緒發展與影響因素",
+    "relatedNote": null,
+    "relatedChapters": [
+      "3-4",
+      "5"
+    ],
+    "src": "assets/ch06_01.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-02",
+      "img-6-03",
+      "img-4-05"
+    ],
+    "thumb": "assets/thumbs/ch06_01.webp"
+  },
+  {
+    "id": "img-6-02",
+    "chapter": "6",
+    "title": "氣質與適配良好",
+    "filename": "ch06_02.jpg",
+    "originalNumber": "02",
+    "studyOrder": 2,
+    "category": "情緒、氣質與自我發展",
+    "kind": "core",
+    "keywords": [
+      "氣質",
+      "Thomas",
+      "Chess",
+      "容易養育型",
+      "困難養育型",
+      "慢熟型",
+      "適配良好",
+      "Goodness of Fit"
+    ],
+    "summary": "Thomas 與 Chess 氣質分類、適配良好",
+    "relatedNote": null,
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch06_02.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-01",
+      "img-6-04"
+    ],
+    "thumb": "assets/thumbs/ch06_02.webp"
+  },
+  {
+    "id": "img-6-03",
+    "chapter": "6",
+    "title": "自我意識與自我概念",
+    "filename": "ch06_03.jpg",
+    "originalNumber": "03",
+    "studyOrder": 3,
+    "category": "情緒、氣質與自我發展",
+    "kind": "core",
+    "keywords": [
+      "自我察覺",
+      "自我概念",
+      "自我評價情緒",
+      "鏡像自我辨識",
+      "驕傲",
+      "羞愧"
+    ],
+    "summary": "自我察覺、自我概念與自我評價情緒",
+    "relatedNote": null,
+    "relatedChapters": [
+      "5"
+    ],
+    "src": "assets/ch06_03.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-04",
+      "img-6-05"
+    ],
+    "thumb": "assets/thumbs/ch06_03.webp"
+  },
+  {
+    "id": "img-6-04",
+    "chapter": "6",
+    "title": "艾瑞克森的心理社會發展：信任與自主",
+    "filename": "ch06_04.jpg",
+    "originalNumber": "04",
+    "studyOrder": 4,
+    "category": "情緒、氣質與自我發展",
+    "kind": "core",
+    "keywords": [
+      "Erikson",
+      "基本信任",
+      "不信任",
+      "自主",
+      "羞愧與懷疑",
+      "希望",
+      "意志"
+    ],
+    "summary": "基本信任對不信任、自主對羞愧與懷疑",
+    "relatedNote": null,
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch06_04.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-2-04",
+      "img-6-06",
+      "img-6-03"
+    ],
+    "thumb": "assets/thumbs/ch06_04.webp"
+  },
+  {
+    "id": "img-6-05",
+    "chapter": "6",
+    "title": "社會情緒學習（SEL）與五大核心能力",
+    "filename": "ch06_05.jpg",
+    "originalNumber": "05",
+    "studyOrder": 11,
+    "category": "社會情緒學習與自我調節",
+    "kind": "core",
+    "keywords": [
+      "SEL",
+      "CASEL",
+      "自我覺察",
+      "自我管理",
+      "社會覺察",
+      "關係技能",
+      "負責任的決策"
+    ],
+    "summary": "CASEL 自我覺察、自我管理、社會覺察、關係技能與負責任的決策",
+    "relatedNote": null,
+    "relatedChapters": [
+      "3-4"
+    ],
+    "src": "assets/ch06_05.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-01",
+      "img-6-11",
+      "img-6-12"
+    ],
+    "thumb": "assets/thumbs/ch06_05.webp"
+  },
+  {
+    "id": "img-6-06",
+    "chapter": "6",
+    "title": "依附理論的基礎",
+    "filename": "ch06_06.jpg",
+    "originalNumber": "06",
+    "studyOrder": 5,
+    "category": "依附理論與早期照顧",
+    "kind": "core",
+    "keywords": [
+      "依附",
+      "Bowlby",
+      "Ainsworth",
+      "安全避風港",
+      "安全基地",
+      "內在運作模式"
+    ],
+    "summary": "Bowlby 與 Ainsworth、安全避風港與安全基地",
+    "relatedNote": null,
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch06_06.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-07",
+      "img-6-08",
+      "img-6-09",
+      "img-6-04"
+    ],
+    "thumb": "assets/thumbs/ch06_06.webp"
+  },
+  {
+    "id": "img-6-07",
+    "chapter": "6",
+    "title": "哈洛恆河猴實驗",
+    "filename": "ch06_07.jpg",
+    "originalNumber": "07",
+    "studyOrder": 6,
+    "category": "依附理論與早期照顧",
+    "kind": "core",
+    "keywords": [
+      "Harlow",
+      "哈洛",
+      "恆河猴",
+      "接觸安慰",
+      "恐懼反應",
+      "社會剝奪",
+      "安全避風港"
+    ],
+    "summary": "接觸安慰、恐懼反應與早期社會經驗",
+    "relatedNote": null,
+    "relatedChapters": [
+      "6"
+    ],
+    "src": "assets/ch06_07.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-06",
+      "img-6-08"
+    ],
+    "thumb": "assets/thumbs/ch06_07.webp"
+  },
+  {
+    "id": "img-6-08",
+    "chapter": "6",
+    "title": "四種依附類型：行為辨識",
+    "filename": "ch06_08.jpg",
+    "originalNumber": "08",
+    "studyOrder": 7,
+    "category": "依附理論與早期照顧",
+    "kind": "core",
+    "keywords": [
+      "Ainsworth",
+      "陌生情境測驗",
+      "安全型依附",
+      "逃避型依附",
+      "矛盾型依附",
+      "錯亂型依附",
+      "重聚反應"
+    ],
+    "summary": "陌生情境測驗、四種依附類型與重聚反應",
+    "relatedNote": null,
+    "relatedChapters": [
+      "6"
+    ],
+    "src": "assets/ch06_08.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-06",
+      "img-6-09",
+      "img-6-10"
+    ],
+    "thumb": "assets/thumbs/ch06_08.webp"
+  },
+  {
+    "id": "img-6-09",
+    "chapter": "6",
+    "title": "依附類型與照顧、探索的關係",
+    "filename": "ch06_09.jpg",
+    "originalNumber": "09",
+    "studyOrder": 8,
+    "category": "依附理論與早期照顧",
+    "kind": "core",
+    "keywords": [
+      "敏感回應",
+      "依附安全感",
+      "探索行為",
+      "安全基地",
+      "照顧互動",
+      "依附類型"
+    ],
+    "summary": "照顧者敏感回應、依附安全感與探索調整",
+    "relatedNote": null,
+    "relatedChapters": [
+      "5"
+    ],
+    "src": "assets/ch06_09.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-06",
+      "img-6-08",
+      "img-5-02"
+    ],
+    "thumb": "assets/thumbs/ch06_09.webp"
+  },
+  {
+    "id": "img-6-10",
+    "chapter": "6",
+    "title": "依附焦慮與後天安全型依附",
+    "filename": "ch06_10.jpg",
+    "originalNumber": "10",
+    "studyOrder": 9,
+    "category": "依附理論與早期照顧",
+    "kind": "core",
+    "keywords": [
+      "陌生人焦慮",
+      "分離焦慮",
+      "後天安全型依附",
+      "Earned Security",
+      "依附",
+      "安全感"
+    ],
+    "summary": "陌生人焦慮、分離焦慮、後天安全型依附",
+    "relatedNote": null,
+    "relatedChapters": [
+      "6"
+    ],
+    "src": "assets/ch06_10.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-08",
+      "img-6-09"
+    ],
+    "thumb": "assets/thumbs/ch06_10.webp"
+  },
+  {
+    "id": "img-6-11",
+    "chapter": "6",
+    "title": "自律與順從的發展",
+    "filename": "ch06_11.jpg",
+    "originalNumber": "11",
+    "studyOrder": 12,
+    "category": "社會情緒學習與自我調節",
+    "kind": "core",
+    "keywords": [
+      "自律",
+      "Self-Regulation",
+      "順從",
+      "Kochanska",
+      "承諾式順從",
+      "情境式順從",
+      "規範內化"
+    ],
+    "summary": "承諾式與情境式順從、規範內化",
+    "relatedNote": null,
+    "relatedChapters": [
+      "5"
+    ],
+    "src": "assets/ch06_11.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-04",
+      "img-6-05",
+      "img-6-12"
+    ],
+    "thumb": "assets/thumbs/ch06_11.webp"
+  },
+  {
+    "id": "img-6-12",
+    "chapter": "6",
+    "title": "延後享樂與自我控制研究",
+    "filename": "ch06_12.jpg",
+    "originalNumber": "12",
+    "studyOrder": 13,
+    "category": "社會情緒學習與自我調節",
+    "kind": "core",
+    "keywords": [
+      "延後享樂",
+      "Mischel",
+      "自我控制",
+      "注意力分散",
+      "認知轉換",
+      "自我指導",
+      "環境可靠性"
+    ],
+    "summary": "Mischel 延後享樂、注意轉移與自我指導",
+    "relatedNote": null,
+    "relatedChapters": [
+      "3-4"
+    ],
+    "src": "assets/ch06_12.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-11",
+      "img-4-04"
+    ],
+    "thumb": "assets/thumbs/ch06_12.webp"
+  },
+  {
+    "id": "img-6-13",
+    "chapter": "6",
+    "title": "兒童虐待與疏忽的類型",
+    "filename": "ch06_13.jpg",
+    "originalNumber": "13",
+    "studyOrder": 14,
+    "category": "兒少保護與教檢應用",
+    "kind": "core",
+    "keywords": [
+      "兒童不當對待",
+      "兒童虐待",
+      "身體虐待",
+      "精神虐待",
+      "性虐待",
+      "疏忽",
+      "兒少保護"
+    ],
+    "summary": "身體、精神、性虐待與疏忽的概念辨識",
+    "relatedNote": null,
+    "relatedChapters": [],
+    "src": "assets/ch06_13.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-14",
+      "img-6-15",
+      "img-6-16"
+    ],
+    "thumb": "assets/thumbs/ch06_13.webp"
+  },
+  {
+    "id": "img-6-14",
+    "chapter": "6",
+    "title": "兒童不當對待的風險因素",
+    "filename": "ch06_14.jpg",
+    "originalNumber": "14",
+    "studyOrder": 15,
+    "category": "兒少保護與教檢應用",
+    "kind": "core",
+    "keywords": [
+      "不當對待風險",
+      "照顧者因素",
+      "家庭因素",
+      "社區因素",
+      "保護因子",
+      "2024年統計"
+    ],
+    "summary": "照顧者、家庭與社區風險及保護條件",
+    "relatedNote": null,
+    "relatedChapters": [],
+    "src": "assets/ch06_14.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-13",
+      "img-6-15"
+    ],
+    "thumb": "assets/thumbs/ch06_14.webp"
+  },
+  {
+    "id": "img-6-15",
+    "chapter": "6",
+    "title": "疑似受虐的辨識與兒童支持",
+    "filename": "ch06_15.jpg",
+    "originalNumber": "15",
+    "studyOrder": 16,
+    "category": "兒少保護與教檢應用",
+    "kind": "application",
+    "keywords": [
+      "疑似受虐",
+      "身體徵兆",
+      "情緒徵兆",
+      "疏忽",
+      "客觀記錄",
+      "溫和傾聽",
+      "安全保護"
+    ],
+    "summary": "身體、照顧及情緒行為警訊、教師初步關懷",
+    "relatedNote": null,
+    "relatedChapters": [],
+    "src": "assets/ch06_15.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-13",
+      "img-6-16"
+    ],
+    "thumb": "assets/thumbs/ch06_15.webp"
+  },
+  {
+    "id": "img-6-16",
+    "chapter": "6",
+    "title": "兒少保護法規與教師通報責任",
+    "filename": "ch06_16.jpg",
+    "originalNumber": "16",
+    "studyOrder": 17,
+    "category": "兒少保護與教檢應用",
+    "kind": "application",
+    "keywords": [
+      "兒少權益保障法",
+      "兒少保護",
+      "通報責任",
+      "24小時",
+      "第49條",
+      "第53條",
+      "第100條",
+      "教師通報"
+    ],
+    "summary": "兒少保護法規、依法通報與專業支持",
+    "relatedNote": null,
+    "relatedChapters": [],
+    "src": "assets/ch06_16.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-6-13",
+      "img-6-15"
+    ],
+    "thumb": "assets/thumbs/ch06_16.webp"
   }
 ]

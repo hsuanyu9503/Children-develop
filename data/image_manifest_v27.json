@@ -1,0 +1,1955 @@
+{
+  "version": "2.7",
+  "gallery_count": 66,
+  "chapter6_count": 16,
+  "chapters": {
+    "1": 6,
+    "2": 20,
+    "3-4": 12,
+    "5": 12,
+    "6": 16
+  },
+  "images": [
+    {
+      "id": "img-1-01",
+      "chapter": "1",
+      "title": "人類發展的基本概念",
+      "filename": "ch01_01.jpg",
+      "category": "核心概念",
+      "kind": "core",
+      "keywords": [
+        "人類發展",
+        "發展定義",
+        "描述",
+        "解釋",
+        "預測",
+        "身體發展",
+        "認知發展",
+        "心理社會發展"
+      ],
+      "summary": "界定人類發展的研究目的與三大發展領域",
+      "relatedNote": "1-01",
+      "relatedChapters": [],
+      "src": "assets/ch01_01.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch01_01.webp"
+    },
+    {
+      "id": "img-1-02",
+      "chapter": "1",
+      "title": "生命全程的八個發展時期",
+      "filename": "ch01_02.jpg",
+      "category": "發展分期",
+      "kind": "core",
+      "keywords": [
+        "八個發展時期",
+        "出生前期",
+        "嬰幼兒期",
+        "兒童期",
+        "青春期",
+        "成人期",
+        "發展階段"
+      ],
+      "summary": "依身體、認知、心理社會三個面向比較各時期",
+      "relatedNote": "1-02",
+      "relatedChapters": [],
+      "src": "assets/ch01_02.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch01_02.webp"
+    },
+    {
+      "id": "img-1-03",
+      "chapter": "1",
+      "title": "影響人類發展的因素",
+      "filename": "ch01_03.jpg",
+      "category": "影響因素",
+      "kind": "core",
+      "keywords": [
+        "遺傳",
+        "環境",
+        "成熟",
+        "常態性影響",
+        "非常態性影響",
+        "交互作用"
+      ],
+      "summary": "區分三大影響因素與生活事件類型",
+      "relatedNote": "1-03",
+      "relatedChapters": [],
+      "src": "assets/ch01_03.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch01_03.webp"
+    },
+    {
+      "id": "img-1-04",
+      "chapter": "1",
+      "title": "發展的時機：關鍵期、敏感期與可塑性",
+      "filename": "ch01_04.jpg",
+      "category": "發展時機",
+      "kind": "core",
+      "keywords": [
+        "關鍵期",
+        "敏感期",
+        "可塑性",
+        "動物銘印",
+        "Genie",
+        "語言學習"
+      ],
+      "summary": "比較發展時機的不同意義與重要案例",
+      "relatedNote": "1-04",
+      "relatedChapters": [],
+      "src": "assets/ch01_04.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch01_04.webp"
+    },
+    {
+      "id": "img-1-05",
+      "chapter": "1",
+      "title": "Baltes 的生命全程發展取向",
+      "filename": "ch01_05.jpg",
+      "category": "理論與學者",
+      "kind": "core",
+      "keywords": [
+        "Baltes",
+        "生命全程",
+        "七項原則",
+        "多向度",
+        "多方向性",
+        "資源分配",
+        "可塑性"
+      ],
+      "summary": "從七項原則掌握生命全程觀點",
+      "relatedNote": "1-05",
+      "relatedChapters": [],
+      "src": "assets/ch01_05.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch01_05.webp"
+    },
+    {
+      "id": "img-1-06",
+      "chapter": "1",
+      "title": "教檢素養導向案例應用圖卡",
+      "filename": "ch01_06.jpg",
+      "category": "教檢應用",
+      "kind": "application",
+      "keywords": [
+        "發展階段",
+        "Erikson",
+        "勤奮對自卑",
+        "三級輔導",
+        "輔導倫理",
+        "REBT",
+        "學生自主權",
+        "校園霸凌"
+      ],
+      "summary": "從明毅的案例整合發展、輔導層級、倫理與理情行為治療",
+      "relatedNote": null,
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch01_06.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch01_06.webp"
+    },
+    {
+      "id": "img-2-01",
+      "chapter": "2",
+      "title": "人類發展理論總覽",
+      "filename": "ch02_01.jpg",
+      "category": "發展理論總覽",
+      "kind": "core",
+      "keywords": [
+        "理論觀點",
+        "主動與被動",
+        "連續與階段",
+        "機械論",
+        "有機論",
+        "五大理論取向"
+      ],
+      "summary": "比較理論基本議題與心理分析、學習、認知、環境脈絡、人本等取向",
+      "relatedNote": "2-01",
+      "relatedChapters": [],
+      "src": "assets/ch02_01.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_01.webp"
+    },
+    {
+      "id": "img-2-02",
+      "chapter": "2",
+      "title": "佛洛依德：人格結構與心理防衛機制",
+      "filename": "ch02_02.jpg",
+      "category": "心理分析與心理社會發展",
+      "kind": "core",
+      "keywords": [
+        "Freud",
+        "本我",
+        "自我",
+        "超我",
+        "意識",
+        "前意識",
+        "潛意識",
+        "心理防衛機制",
+        "壓抑",
+        "投射",
+        "合理化"
+      ],
+      "summary": "人格三結構、意識三層次與常見防衛機制",
+      "relatedNote": "2-02",
+      "relatedChapters": [],
+      "src": "assets/ch02_02.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_02.webp"
+    },
+    {
+      "id": "img-2-03",
+      "chapter": "2",
+      "title": "佛洛依德：性心理發展五階段",
+      "filename": "ch02_03.jpg",
+      "category": "心理分析與心理社會發展",
+      "kind": "core",
+      "keywords": [
+        "Freud",
+        "性心理發展",
+        "口腔期",
+        "肛門期",
+        "性器期",
+        "性潛伏期",
+        "生殖期",
+        "固著"
+      ],
+      "summary": "性心理發展五階段與固著概念",
+      "relatedNote": "2-02",
+      "relatedChapters": [],
+      "src": "assets/ch02_03.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_03.webp"
+    },
+    {
+      "id": "img-2-04",
+      "chapter": "2",
+      "title": "艾瑞克森：心理社會發展八階段",
+      "filename": "ch02_04.jpg",
+      "category": "心理分析與心理社會發展",
+      "kind": "core",
+      "keywords": [
+        "Erikson",
+        "心理社會發展",
+        "八階段",
+        "心理社會危機",
+        "勤奮對自卑",
+        "核心德行"
+      ],
+      "summary": "心理社會危機、八階段、任務與核心德行",
+      "relatedNote": "2-04",
+      "relatedChapters": [
+        "1"
+      ],
+      "src": "assets/ch02_04.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_04.webp"
+    },
+    {
+      "id": "img-2-05",
+      "chapter": "2",
+      "title": "巴夫洛夫：古典制約與情緒學習",
+      "filename": "ch02_05.jpg",
+      "category": "行為與社會學習",
+      "kind": "core",
+      "keywords": [
+        "Pavlov",
+        "古典制約",
+        "UCS",
+        "UCR",
+        "CS",
+        "CR",
+        "類化",
+        "辨別",
+        "消弱",
+        "自然恢復",
+        "Little Albert"
+      ],
+      "summary": "古典制約、刺激反應類型與情緒學習",
+      "relatedNote": "2-05",
+      "relatedChapters": [],
+      "src": "assets/ch02_05.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_05.webp"
+    },
+    {
+      "id": "img-2-06",
+      "chapter": "2",
+      "title": "桑代克 × 史金納：效果律與操作制約",
+      "filename": "ch02_06.jpg",
+      "category": "行為與社會學習",
+      "kind": "core",
+      "keywords": [
+        "Thorndike",
+        "Skinner",
+        "效果律",
+        "操作制約",
+        "迷籠",
+        "史金納箱",
+        "正增強",
+        "負增強",
+        "正處罰",
+        "負處罰"
+      ],
+      "summary": "從迷籠學習與史金納箱理解效果律、操作制約與行為後果",
+      "relatedNote": "2-06",
+      "relatedChapters": [],
+      "src": "assets/ch02_06.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_06.webp"
+    },
+    {
+      "id": "img-2-07",
+      "chapter": "2",
+      "title": "史金納：增強安排與行為應用",
+      "filename": "ch02_07.jpg",
+      "category": "行為與社會學習",
+      "kind": "core",
+      "keywords": [
+        "Skinner",
+        "增強安排",
+        "立即增強",
+        "延宕增強",
+        "連續增強",
+        "間歇增強",
+        "FR",
+        "VR",
+        "FI",
+        "VI",
+        "代幣制度",
+        "行為塑造"
+      ],
+      "summary": "時間與頻率、四種間歇增強時制及教學應用",
+      "relatedNote": "2-06",
+      "relatedChapters": [],
+      "src": "assets/ch02_07.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_07.webp"
+    },
+    {
+      "id": "img-2-08",
+      "chapter": "2",
+      "title": "班杜拉：觀察學習與社會認知理論",
+      "filename": "ch02_08.jpg",
+      "category": "行為與社會學習",
+      "kind": "core",
+      "keywords": [
+        "Bandura",
+        "觀察學習",
+        "Bobo Doll",
+        "注意",
+        "保留",
+        "再生",
+        "動機",
+        "自我效能",
+        "交互決定論"
+      ],
+      "summary": "觀察學習四歷程、替代增強、自我效能與交互決定論",
+      "relatedNote": "2-07",
+      "relatedChapters": [],
+      "src": "assets/ch02_08.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_08.webp"
+    },
+    {
+      "id": "img-2-09",
+      "chapter": "2",
+      "title": "皮亞傑：認知建構的核心機制",
+      "filename": "ch02_09.jpg",
+      "category": "認知與社會文化發展",
+      "kind": "core",
+      "keywords": [
+        "Piaget",
+        "基模",
+        "感覺運動基模",
+        "象徵基模",
+        "運思基模",
+        "組織",
+        "適應",
+        "同化",
+        "調適",
+        "平衡化"
+      ],
+      "summary": "基模、組織、同化、調適與平衡化的關係",
+      "relatedNote": "2-08",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch02_09.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_09.webp"
+    },
+    {
+      "id": "img-2-10",
+      "chapter": "2",
+      "title": "皮亞傑：認知發展四階段",
+      "filename": "ch02_10.jpg",
+      "category": "認知與社會文化發展",
+      "kind": "core",
+      "keywords": [
+        "Piaget",
+        "感覺動作期",
+        "前運思期",
+        "具體運思期",
+        "形式運思期",
+        "物體恆存",
+        "守恆",
+        "可逆性"
+      ],
+      "summary": "四階段認知特徵、年齡概況與守恆實驗比較",
+      "relatedNote": "2-09",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch02_10.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_10.webp"
+    },
+    {
+      "id": "img-2-11",
+      "chapter": "2",
+      "title": "維高斯基：近側發展區、鷹架與私語",
+      "filename": "ch02_11.jpg",
+      "category": "認知與社會文化發展",
+      "kind": "core",
+      "keywords": [
+        "Vygotsky",
+        "社會文化理論",
+        "ZPD",
+        "近側發展區",
+        "鷹架",
+        "私語",
+        "內化",
+        "語言"
+      ],
+      "summary": "近側發展區、鷹架支持、私語與內化歷程",
+      "relatedNote": "2-10",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch02_11.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_11.webp"
+    },
+    {
+      "id": "img-2-12",
+      "chapter": "2",
+      "title": "布朗芬布列納：生物生態學理論",
+      "filename": "ch02_12.jpg",
+      "category": "環境與文化發展",
+      "kind": "core",
+      "keywords": [
+        "Bronfenbrenner",
+        "生物生態學",
+        "小系統",
+        "中系統",
+        "外系統",
+        "大系統",
+        "時間系統"
+      ],
+      "summary": "五大環境系統及其直接、間接與時間影響",
+      "relatedNote": "2-11",
+      "relatedChapters": [],
+      "src": "assets/ch02_12.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_12.webp"
+    },
+    {
+      "id": "img-2-13",
+      "chapter": "2",
+      "title": "米德 × 勞倫茲：文化與動物行為學",
+      "filename": "ch02_13.jpg",
+      "category": "環境與文化發展",
+      "kind": "core",
+      "keywords": [
+        "Margaret Mead",
+        "Konrad Lorenz",
+        "跨文化研究",
+        "青春期",
+        "性別角色",
+        "動物行為學",
+        "銘印",
+        "未成熟的適應價值"
+      ],
+      "summary": "文化塑造發展經驗與動物銘印及未成熟適應價值",
+      "relatedNote": "2-01",
+      "relatedChapters": [
+        "1"
+      ],
+      "src": "assets/ch02_13.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_13.webp"
+    },
+    {
+      "id": "img-2-14",
+      "chapter": "2",
+      "title": "馬斯洛：需求層級與自我實現",
+      "filename": "ch02_14.jpg",
+      "category": "人本與個體心理學",
+      "kind": "core",
+      "keywords": [
+        "Maslow",
+        "需求層級",
+        "生理需求",
+        "安全需求",
+        "歸屬",
+        "尊重",
+        "自我實現",
+        "高峰經驗"
+      ],
+      "summary": "需求層級、補充需求與高峰經驗",
+      "relatedNote": "2-12",
+      "relatedChapters": [],
+      "src": "assets/ch02_14.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_14.webp"
+    },
+    {
+      "id": "img-2-15",
+      "chapter": "2",
+      "title": "羅吉斯：個人中心取向與助人關係",
+      "filename": "ch02_15.jpg",
+      "category": "人本與個體心理學",
+      "kind": "core",
+      "keywords": [
+        "Rogers",
+        "個人中心",
+        "同理心",
+        "無條件正向關懷",
+        "真誠一致",
+        "傾聽",
+        "實現傾向"
+      ],
+      "summary": "助人關係的同理、接納與真誠一致",
+      "relatedNote": "2-12",
+      "relatedChapters": [],
+      "src": "assets/ch02_15.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_15.webp"
+    },
+    {
+      "id": "img-2-16",
+      "chapter": "2",
+      "title": "阿德勒：個體心理學與自卑補償",
+      "filename": "ch02_16.jpg",
+      "category": "人本與個體心理學",
+      "kind": "core",
+      "keywords": [
+        "Adler",
+        "個體心理學",
+        "自卑感",
+        "補償",
+        "追求卓越",
+        "社會興趣",
+        "生活風格"
+      ],
+      "summary": "自卑與補償、追求卓越、社會興趣及生活風格",
+      "relatedNote": "2-12",
+      "relatedChapters": [],
+      "src": "assets/ch02_16.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_16.webp"
+    },
+    {
+      "id": "img-2-17",
+      "chapter": "2",
+      "title": "兒童發展研究方法與資料蒐集",
+      "filename": "ch02_17.jpg",
+      "category": "研究方法與設計",
+      "kind": "core",
+      "keywords": [
+        "母群體",
+        "樣本",
+        "隨機抽樣",
+        "自我報告法",
+        "自然觀察",
+        "實驗室觀察",
+        "相關研究",
+        "實驗研究",
+        "研究倫理"
+      ],
+      "summary": "抽樣、資料蒐集方式、基本研究設計與因果推論",
+      "relatedNote": "2-13",
+      "relatedChapters": [],
+      "src": "assets/ch02_17.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_17.webp"
+    },
+    {
+      "id": "img-2-18",
+      "chapter": "2",
+      "title": "橫斷、縱貫與序列研究設計",
+      "filename": "ch02_18.jpg",
+      "category": "研究方法與設計",
+      "kind": "core",
+      "keywords": [
+        "橫斷研究",
+        "縱貫研究",
+        "序列研究",
+        "世代效應",
+        "樣本流失",
+        "練習效應",
+        "研究倫理"
+      ],
+      "summary": "三類發展研究設計的比較、優缺點與研究倫理",
+      "relatedNote": "2-13",
+      "relatedChapters": [],
+      "src": "assets/ch02_18.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_18.webp"
+    },
+    {
+      "id": "img-2-19",
+      "chapter": "2",
+      "title": "佛洛依德 × 艾瑞克森 × 皮亞傑發展階段比較",
+      "filename": "ch02_19.jpg",
+      "category": "理論比較與整合",
+      "kind": "core",
+      "keywords": [
+        "Freud",
+        "Erikson",
+        "Piaget",
+        "發展階段",
+        "年齡對照",
+        "勤奮對自卑",
+        "具體運思",
+        "性潛伏期"
+      ],
+      "summary": "三大階段理論跨生命期比較，聚焦國小學童",
+      "relatedNote": "2-04",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch02_19.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_19.webp"
+    },
+    {
+      "id": "img-2-20",
+      "chapter": "2",
+      "title": "人類發展理論總整合與教檢應用",
+      "filename": "ch02_20.jpg",
+      "category": "理論比較與整合",
+      "kind": "application",
+      "keywords": [
+        "理論總整合",
+        "心理分析",
+        "學習論",
+        "認知論",
+        "環境脈絡論",
+        "人本取向",
+        "教檢辨別",
+        "情境判斷"
+      ],
+      "summary": "五大理論取向、同一情境的多元解釋與教檢辨別",
+      "relatedNote": "2-01",
+      "relatedChapters": [],
+      "src": "assets/ch02_20.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch02_20.webp"
+    },
+    {
+      "id": "img-3-01",
+      "chapter": "3-4",
+      "title": "產前發展與出生風險",
+      "filename": "ch03_04_01.jpg",
+      "originalNumber": "01",
+      "studyOrder": 1,
+      "category": "產前發展與身體成長",
+      "kind": "core",
+      "keywords": [
+        "胚種期",
+        "胚胎期",
+        "胎兒期",
+        "早產",
+        "低出生體重",
+        "胎兒風險",
+        "保護性因素",
+        "產前發展",
+        "生物",
+        "環境"
+      ],
+      "summary": "胚種期・胚胎期・胎兒期・早產",
+      "relatedNote": "3-01",
+      "relatedChapters": [],
+      "src": "assets/ch03_04_01.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch03_04_01.webp"
+    },
+    {
+      "id": "img-4-01",
+      "chapter": "3-4",
+      "title": "身體成長原則與影響因素",
+      "filename": "ch03_04_02.jpg",
+      "originalNumber": "02",
+      "studyOrder": 2,
+      "category": "產前發展與身體成長",
+      "kind": "core",
+      "keywords": [
+        "頭尾原則",
+        "近遠原則",
+        "生長",
+        "發展",
+        "遺傳",
+        "環境",
+        "身體成熟",
+        "生長激素",
+        "GH"
+      ],
+      "summary": "頭尾原則・近遠原則・生長・發展",
+      "relatedNote": "4-01",
+      "relatedChapters": [],
+      "src": "assets/ch03_04_02.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch03_04_02.webp"
+    },
+    {
+      "id": "img-4-02",
+      "chapter": "3-4",
+      "title": "神經元結構與訊息傳遞",
+      "filename": "ch03_04_03.jpg",
+      "originalNumber": "03",
+      "studyOrder": 3,
+      "category": "神經元與神經系統成熟",
+      "kind": "core",
+      "keywords": [
+        "樹突",
+        "細胞體",
+        "軸突",
+        "髓鞘",
+        "突觸",
+        "動作電位",
+        "神經傳導物質",
+        "星狀膠質細胞",
+        "寡突膠質細胞",
+        "許旺細胞",
+        "微膠細胞"
+      ],
+      "summary": "樹突・細胞體・軸突・髓鞘",
+      "relatedNote": "4-02",
+      "relatedChapters": [],
+      "src": "assets/ch03_04_03.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch03_04_03.webp"
+    },
+    {
+      "id": "img-4-03",
+      "chapter": "3-4",
+      "title": "神經系統成熟與大腦可塑性",
+      "filename": "ch03_04_04.jpg",
+      "originalNumber": "04",
+      "studyOrder": 4,
+      "category": "神經元與神經系統成熟",
+      "kind": "core",
+      "keywords": [
+        "神經元遷移",
+        "神經元分化",
+        "突觸形成",
+        "細胞凋亡",
+        "突觸修剪",
+        "髓鞘化",
+        "可塑性",
+        "敏感期"
+      ],
+      "summary": "神經元遷移・神經元分化・突觸形成・細胞凋亡",
+      "relatedNote": "4-02",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch03_04_04.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-5-12"
+      ],
+      "thumb": "assets/thumbs/ch03_04_04.webp"
+    },
+    {
+      "id": "img-4-04",
+      "chapter": "3-4",
+      "title": "四大腦葉與前額葉執行功能",
+      "filename": "ch03_04_05.jpg",
+      "originalNumber": "05",
+      "studyOrder": 6,
+      "category": "大腦構造與認知情緒功能",
+      "kind": "core",
+      "keywords": [
+        "額葉",
+        "頂葉",
+        "枕葉",
+        "顳葉",
+        "前額葉",
+        "皮質",
+        "工作記憶",
+        "抑制控制",
+        "認知彈性",
+        "計畫",
+        "組織",
+        "執行功能"
+      ],
+      "summary": "額葉・頂葉・枕葉・顳葉",
+      "relatedNote": "4-03",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch03_04_05.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-5-09"
+      ],
+      "thumb": "assets/thumbs/ch03_04_05.webp"
+    },
+    {
+      "id": "img-4-05",
+      "chapter": "3-4",
+      "title": "腦部重要構造與基本功能",
+      "filename": "ch03_04_06.jpg",
+      "originalNumber": "06",
+      "studyOrder": 5,
+      "category": "大腦構造與認知情緒功能",
+      "kind": "core",
+      "keywords": [
+        "視丘",
+        "下視丘",
+        "腦下垂體",
+        "腦幹",
+        "中腦",
+        "橋腦",
+        "延腦",
+        "網狀結構",
+        "小腦"
+      ],
+      "summary": "視丘・下視丘・腦下垂體・腦幹",
+      "relatedNote": "4-04",
+      "relatedChapters": [],
+      "src": "assets/ch03_04_06.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch03_04_06.webp"
+    },
+    {
+      "id": "img-4-06",
+      "chapter": "3-4",
+      "title": "邊緣系統：情緒、記憶與行為",
+      "filename": "ch03_04_07.jpg",
+      "originalNumber": "07",
+      "studyOrder": 7,
+      "category": "大腦構造與認知情緒功能",
+      "kind": "core",
+      "keywords": [
+        "邊緣系統",
+        "海馬迴",
+        "杏仁核",
+        "扣帶迴",
+        "情緒記憶",
+        "威脅評估",
+        "情緒學習",
+        "情境記憶"
+      ],
+      "summary": "邊緣系統・海馬迴・杏仁核・扣帶迴",
+      "relatedNote": "4-04",
+      "relatedChapters": [],
+      "src": "assets/ch03_04_07.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch03_04_07.webp"
+    },
+    {
+      "id": "img-4-07",
+      "chapter": "3-4",
+      "title": "腦側化與語言發展",
+      "filename": "ch03_04_08.jpg",
+      "originalNumber": "08",
+      "studyOrder": 8,
+      "category": "大腦構造與認知情緒功能",
+      "kind": "core",
+      "keywords": [
+        "腦側化",
+        "左半球",
+        "右半球",
+        "胼胝體",
+        "Broca",
+        "布洛卡",
+        "Wernicke",
+        "維尼克",
+        "語言",
+        "神經可塑性"
+      ],
+      "summary": "腦側化・左半球・右半球・胼胝體",
+      "relatedNote": "4-05",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch03_04_08.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-5-04",
+        "img-5-12"
+      ],
+      "thumb": "assets/thumbs/ch03_04_08.webp"
+    },
+    {
+      "id": "img-4-08",
+      "chapter": "3-4",
+      "title": "感覺系統與知覺發展",
+      "filename": "ch03_04_09.jpg",
+      "originalNumber": "09",
+      "studyOrder": 9,
+      "category": "感覺知覺與動作發展",
+      "kind": "core",
+      "keywords": [
+        "感覺",
+        "知覺",
+        "視覺",
+        "聽覺",
+        "觸覺",
+        "嗅覺",
+        "味覺",
+        "前庭覺",
+        "本體覺",
+        "跨感官知覺"
+      ],
+      "summary": "感覺・知覺・視覺・聽覺",
+      "relatedNote": "4-06",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch03_04_09.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-5-02"
+      ],
+      "thumb": "assets/thumbs/ch03_04_09.webp"
+    },
+    {
+      "id": "img-4-09",
+      "chapter": "3-4",
+      "title": "視覺懸崖與知覺－動作發展",
+      "filename": "ch03_04_10.jpg",
+      "originalNumber": "10",
+      "studyOrder": 11,
+      "category": "感覺知覺與動作發展",
+      "kind": "core",
+      "keywords": [
+        "視覺懸崖",
+        "Gibson",
+        "Walk",
+        "Campos",
+        "Adolph",
+        "Sorce",
+        "深度知覺",
+        "移動經驗",
+        "可供性",
+        "社會參照"
+      ],
+      "summary": "視覺懸崖・Gibson・Walk・Campos",
+      "relatedNote": "4-06",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch03_04_10.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-5-03"
+      ],
+      "thumb": "assets/thumbs/ch03_04_10.webp"
+    },
+    {
+      "id": "img-4-10",
+      "chapter": "3-4",
+      "title": "原始反射與動作發展",
+      "filename": "ch03_04_11.jpg",
+      "originalNumber": "11",
+      "studyOrder": 10,
+      "category": "感覺知覺與動作發展",
+      "kind": "core",
+      "keywords": [
+        "覓食反射",
+        "吸吮反射",
+        "摩羅反射",
+        "手掌抓握",
+        "踏步反射",
+        "粗大動作",
+        "精細動作",
+        "Gesell",
+        "Thelen"
+      ],
+      "summary": "覓食反射・吸吮反射・摩羅反射・手掌抓握",
+      "relatedNote": "4-07",
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch03_04_11.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-5-02",
+        "img-5-03"
+      ],
+      "thumb": "assets/thumbs/ch03_04_11.webp"
+    },
+    {
+      "id": "img-4-11",
+      "chapter": "3-4",
+      "title": "教檢應用：兒童行為、大腦功能與發展機制",
+      "filename": "ch03_04_12.jpg",
+      "originalNumber": "12",
+      "studyOrder": 12,
+      "category": "教檢應用與概念整合",
+      "kind": "application",
+      "keywords": [
+        "教檢應用",
+        "工作記憶",
+        "抑制控制",
+        "海馬迴",
+        "杏仁核",
+        "網狀結構",
+        "前額葉",
+        "成長激素",
+        "觸覺防衛",
+        "發展機制"
+      ],
+      "summary": "教檢應用・工作記憶・抑制控制・海馬迴",
+      "relatedNote": "4-03",
+      "relatedChapters": [],
+      "src": "assets/ch03_04_12.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "thumb": "assets/thumbs/ch03_04_12.webp"
+    },
+    {
+      "id": "img-5-01",
+      "chapter": "5",
+      "title": "皮亞傑的認知建構機制",
+      "filename": "ch05_01.jpg",
+      "originalNumber": "01",
+      "studyOrder": 1,
+      "category": "皮亞傑的認知建構機制",
+      "kind": "core",
+      "keywords": [
+        "Piaget",
+        "皮亞傑",
+        "基模",
+        "組織",
+        "適應",
+        "同化",
+        "調適",
+        "平衡化",
+        "認知建構"
+      ],
+      "summary": "Piaget・皮亞傑・基模・組織",
+      "relatedNote": "5-01",
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch05_01.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-2-09"
+      ],
+      "thumb": "assets/thumbs/ch05_01.webp"
+    },
+    {
+      "id": "img-5-02",
+      "chapter": "5",
+      "title": "感覺動作期的六個次階段與循環反應",
+      "filename": "ch05_02.jpg",
+      "originalNumber": "02",
+      "studyOrder": 2,
+      "category": "皮亞傑的認知建構機制",
+      "kind": "core",
+      "keywords": [
+        "Piaget",
+        "感覺動作期",
+        "循環反應",
+        "初級",
+        "次級",
+        "三級",
+        "反射",
+        "目的性行動",
+        "心理表徵"
+      ],
+      "summary": "Piaget・感覺動作期・循環反應・初級",
+      "relatedNote": "5-01",
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch05_02.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-2-10",
+        "img-4-10"
+      ],
+      "thumb": "assets/thumbs/ch05_02.webp"
+    },
+    {
+      "id": "img-5-03",
+      "chapter": "5",
+      "title": "物體恆存與延宕模仿",
+      "filename": "ch05_03.jpg",
+      "originalNumber": "03",
+      "studyOrder": 3,
+      "category": "皮亞傑的認知建構機制",
+      "kind": "core",
+      "keywords": [
+        "物體恆存",
+        "A-not-B",
+        "錯誤",
+        "延宕模仿",
+        "感覺動作期",
+        "Piaget",
+        "心理表徵"
+      ],
+      "summary": "物體恆存・A-not-B・錯誤・延宕模仿",
+      "relatedNote": "5-02",
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch05_03.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-2-10",
+        "img-4-09"
+      ],
+      "thumb": "assets/thumbs/ch05_03.webp"
+    },
+    {
+      "id": "img-5-04",
+      "chapter": "5",
+      "title": "三歲前的語言發展歷程",
+      "filename": "ch05_04.jpg",
+      "originalNumber": "04",
+      "studyOrder": 4,
+      "category": "三歲前語言發展歷程與結構",
+      "kind": "core",
+      "keywords": [
+        "語言發展",
+        "發聲",
+        "語音知覺",
+        "單詞句",
+        "雙詞句",
+        "詞彙爆炸",
+        "電報式語言",
+        "手勢",
+        "婴幼兒"
+      ],
+      "summary": "語言發展・發聲・語音知覺・單詞句",
+      "relatedNote": "5-03",
+      "relatedChapters": [],
+      "src": "assets/ch05_04.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-4-07"
+      ],
+      "thumb": "assets/thumbs/ch05_04.webp"
+    },
+    {
+      "id": "img-5-05",
+      "chapter": "5",
+      "title": "語言組成四要素",
+      "filename": "ch05_05.jpg",
+      "originalNumber": "05",
+      "studyOrder": 5,
+      "category": "三歲前語言發展歷程與結構",
+      "kind": "core",
+      "keywords": [
+        "語音",
+        "phonology",
+        "語意",
+        "semantics",
+        "語法",
+        "syntax",
+        "語用",
+        "pragmatics",
+        "語言四要素"
+      ],
+      "summary": "語音・phonology・語意・semantics",
+      "relatedNote": "5-04",
+      "relatedChapters": [],
+      "src": "assets/ch05_05.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-5-06"
+      ],
+      "thumb": "assets/thumbs/ch05_05.webp"
+    },
+    {
+      "id": "img-5-06",
+      "chapter": "5",
+      "title": "語言的基本單位：音位、音節、語素與詞",
+      "filename": "ch05_06.jpg",
+      "originalNumber": "06",
+      "studyOrder": 6,
+      "category": "三歲前語言發展歷程與結構",
+      "kind": "core",
+      "keywords": [
+        "音位",
+        "phoneme",
+        "音節",
+        "syllable",
+        "語素",
+        "morpheme",
+        "詞",
+        "word",
+        "聲音結構",
+        "意義構成"
+      ],
+      "summary": "音位・phoneme・音節・syllable",
+      "relatedNote": "5-04",
+      "relatedChapters": [],
+      "src": "assets/ch05_06.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-5-05"
+      ],
+      "thumb": "assets/thumbs/ch05_06.webp"
+    },
+    {
+      "id": "img-5-07",
+      "chapter": "5",
+      "title": "語言習得的三大理論",
+      "filename": "ch05_07.jpg",
+      "originalNumber": "07",
+      "studyOrder": 7,
+      "category": "語言習得理論",
+      "kind": "core",
+      "keywords": [
+        "語言學習論",
+        "先天論",
+        "互動論",
+        "Skinner",
+        "Chomsky",
+        "Slobin",
+        "Vygotsky",
+        "語言習得"
+      ],
+      "summary": "語言學習論・先天論・互動論・Skinner",
+      "relatedNote": "5-05",
+      "relatedChapters": [],
+      "src": "assets/ch05_07.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-2-20"
+      ],
+      "thumb": "assets/thumbs/ch05_07.webp"
+    },
+    {
+      "id": "img-5-08",
+      "chapter": "5",
+      "title": "Chomsky 的 LAD 與 Slobin 的 LMC",
+      "filename": "ch05_08.jpg",
+      "originalNumber": "08",
+      "studyOrder": 8,
+      "category": "語言習得理論",
+      "kind": "core",
+      "keywords": [
+        "Chomsky",
+        "Slobin",
+        "LAD",
+        "LMC",
+        "語言獲得裝置",
+        "語言製造能力",
+        "普遍語法",
+        "先天論"
+      ],
+      "summary": "Chomsky・Slobin・LAD・LMC",
+      "relatedNote": "5-05",
+      "relatedChapters": [],
+      "src": "assets/ch05_08.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-5-07"
+      ],
+      "thumb": "assets/thumbs/ch05_08.webp"
+    },
+    {
+      "id": "img-5-09",
+      "chapter": "5",
+      "title": "維高斯基：語言內化與思維發展",
+      "filename": "ch05_09.jpg",
+      "originalNumber": "09",
+      "studyOrder": 10,
+      "category": "語言思維與社會互動",
+      "kind": "core",
+      "keywords": [
+        "Vygotsky",
+        "維高斯基",
+        "社會語言",
+        "私語",
+        "內在語言",
+        "語言內化",
+        "自我調節",
+        "思維"
+      ],
+      "summary": "Vygotsky・維高斯基・社會語言・私語",
+      "relatedNote": "5-06",
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch05_09.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-2-11",
+        "img-4-04",
+        "img-5-11"
+      ],
+      "thumb": "assets/thumbs/ch05_09.webp"
+    },
+    {
+      "id": "img-5-10",
+      "chapter": "5",
+      "title": "皮亞傑：自我中心語言與社會性語言",
+      "filename": "ch05_10.jpg",
+      "originalNumber": "10",
+      "studyOrder": 9,
+      "category": "語言思維與社會互動",
+      "kind": "core",
+      "keywords": [
+        "Piaget",
+        "皮亞傑",
+        "自我中心語言",
+        "社會性語言",
+        "反覆語",
+        "獨語",
+        "集體獨語",
+        "觀點取替"
+      ],
+      "summary": "Piaget・皮亞傑・自我中心語言・社會性語言",
+      "relatedNote": "5-07",
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch05_10.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-2-10",
+        "img-5-11"
+      ],
+      "thumb": "assets/thumbs/ch05_10.webp"
+    },
+    {
+      "id": "img-5-11",
+      "chapter": "5",
+      "title": "皮亞傑與維高斯基的語言發展觀點比較",
+      "filename": "ch05_11.jpg",
+      "originalNumber": "11",
+      "studyOrder": 11,
+      "category": "語言思維與社會互動",
+      "kind": "core",
+      "keywords": [
+        "Piaget",
+        "Vygotsky",
+        "語言",
+        "私語",
+        "自我中心語言",
+        "觀點協調",
+        "語言內化",
+        "自我調節"
+      ],
+      "summary": "Piaget・Vygotsky・語言・私語",
+      "relatedNote": "5-07",
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch05_11.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-2-11",
+        "img-5-09",
+        "img-5-10"
+      ],
+      "thumb": "assets/thumbs/ch05_11.webp"
+    },
+    {
+      "id": "img-5-12",
+      "chapter": "5",
+      "title": "影響三歲前語言發展的因素",
+      "filename": "ch05_12.jpg",
+      "originalNumber": "12",
+      "studyOrder": 12,
+      "category": "語言發展的影響因素",
+      "kind": "core",
+      "keywords": [
+        "大腦成熟",
+        "可塑性",
+        "照顧者回應",
+        "社會互動",
+        "兒童導向語",
+        "CDS",
+        "Parentese",
+        "雙語環境",
+        "語碼轉換",
+        "親子共讀"
+      ],
+      "summary": "大腦成熟・可塑性・照顧者回應・社會互動",
+      "relatedNote": "5-08",
+      "relatedChapters": [],
+      "src": "assets/ch05_12.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-4-03",
+        "img-4-07",
+        "img-5-04"
+      ],
+      "thumb": "assets/thumbs/ch05_12.webp"
+    },
+    {
+      "id": "img-6-01",
+      "chapter": "6",
+      "title": "情緒的功能與發展歷程",
+      "filename": "ch06_01.jpg",
+      "originalNumber": "01",
+      "studyOrder": 1,
+      "category": "情緒、氣質與自我發展",
+      "kind": "core",
+      "keywords": [
+        "情緒功能",
+        "情緒發展",
+        "情緒表達",
+        "社會反應",
+        "0～36個月",
+        "生理成熟",
+        "社會互動"
+      ],
+      "summary": "情緒功能、0～36個月情緒發展與影響因素",
+      "relatedNote": null,
+      "relatedChapters": [
+        "3-4",
+        "5"
+      ],
+      "src": "assets/ch06_01.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-02",
+        "img-6-03",
+        "img-4-05"
+      ],
+      "thumb": "assets/thumbs/ch06_01.webp"
+    },
+    {
+      "id": "img-6-02",
+      "chapter": "6",
+      "title": "氣質與適配良好",
+      "filename": "ch06_02.jpg",
+      "originalNumber": "02",
+      "studyOrder": 2,
+      "category": "情緒、氣質與自我發展",
+      "kind": "core",
+      "keywords": [
+        "氣質",
+        "Thomas",
+        "Chess",
+        "容易養育型",
+        "困難養育型",
+        "慢熟型",
+        "適配良好",
+        "Goodness of Fit"
+      ],
+      "summary": "Thomas 與 Chess 氣質分類、適配良好",
+      "relatedNote": null,
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch06_02.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-01",
+        "img-6-04"
+      ],
+      "thumb": "assets/thumbs/ch06_02.webp"
+    },
+    {
+      "id": "img-6-03",
+      "chapter": "6",
+      "title": "自我意識與自我概念",
+      "filename": "ch06_03.jpg",
+      "originalNumber": "03",
+      "studyOrder": 3,
+      "category": "情緒、氣質與自我發展",
+      "kind": "core",
+      "keywords": [
+        "自我察覺",
+        "自我概念",
+        "自我評價情緒",
+        "鏡像自我辨識",
+        "驕傲",
+        "羞愧"
+      ],
+      "summary": "自我察覺、自我概念與自我評價情緒",
+      "relatedNote": null,
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch06_03.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-04",
+        "img-6-05"
+      ],
+      "thumb": "assets/thumbs/ch06_03.webp"
+    },
+    {
+      "id": "img-6-04",
+      "chapter": "6",
+      "title": "艾瑞克森的心理社會發展：信任與自主",
+      "filename": "ch06_04.jpg",
+      "originalNumber": "04",
+      "studyOrder": 4,
+      "category": "情緒、氣質與自我發展",
+      "kind": "core",
+      "keywords": [
+        "Erikson",
+        "基本信任",
+        "不信任",
+        "自主",
+        "羞愧與懷疑",
+        "希望",
+        "意志"
+      ],
+      "summary": "基本信任對不信任、自主對羞愧與懷疑",
+      "relatedNote": null,
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch06_04.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-2-04",
+        "img-6-06",
+        "img-6-03"
+      ],
+      "thumb": "assets/thumbs/ch06_04.webp"
+    },
+    {
+      "id": "img-6-05",
+      "chapter": "6",
+      "title": "社會情緒學習（SEL）與五大核心能力",
+      "filename": "ch06_05.jpg",
+      "originalNumber": "05",
+      "studyOrder": 11,
+      "category": "社會情緒學習與自我調節",
+      "kind": "core",
+      "keywords": [
+        "SEL",
+        "CASEL",
+        "自我覺察",
+        "自我管理",
+        "社會覺察",
+        "關係技能",
+        "負責任的決策"
+      ],
+      "summary": "CASEL 自我覺察、自我管理、社會覺察、關係技能與負責任的決策",
+      "relatedNote": null,
+      "relatedChapters": [
+        "3-4"
+      ],
+      "src": "assets/ch06_05.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-01",
+        "img-6-11",
+        "img-6-12"
+      ],
+      "thumb": "assets/thumbs/ch06_05.webp"
+    },
+    {
+      "id": "img-6-06",
+      "chapter": "6",
+      "title": "依附理論的基礎",
+      "filename": "ch06_06.jpg",
+      "originalNumber": "06",
+      "studyOrder": 5,
+      "category": "依附理論與早期照顧",
+      "kind": "core",
+      "keywords": [
+        "依附",
+        "Bowlby",
+        "Ainsworth",
+        "安全避風港",
+        "安全基地",
+        "內在運作模式"
+      ],
+      "summary": "Bowlby 與 Ainsworth、安全避風港與安全基地",
+      "relatedNote": null,
+      "relatedChapters": [
+        "2"
+      ],
+      "src": "assets/ch06_06.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-07",
+        "img-6-08",
+        "img-6-09",
+        "img-6-04"
+      ],
+      "thumb": "assets/thumbs/ch06_06.webp"
+    },
+    {
+      "id": "img-6-07",
+      "chapter": "6",
+      "title": "哈洛恆河猴實驗",
+      "filename": "ch06_07.jpg",
+      "originalNumber": "07",
+      "studyOrder": 6,
+      "category": "依附理論與早期照顧",
+      "kind": "core",
+      "keywords": [
+        "Harlow",
+        "哈洛",
+        "恆河猴",
+        "接觸安慰",
+        "恐懼反應",
+        "社會剝奪",
+        "安全避風港"
+      ],
+      "summary": "接觸安慰、恐懼反應與早期社會經驗",
+      "relatedNote": null,
+      "relatedChapters": [
+        "6"
+      ],
+      "src": "assets/ch06_07.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-06",
+        "img-6-08"
+      ],
+      "thumb": "assets/thumbs/ch06_07.webp"
+    },
+    {
+      "id": "img-6-08",
+      "chapter": "6",
+      "title": "四種依附類型：行為辨識",
+      "filename": "ch06_08.jpg",
+      "originalNumber": "08",
+      "studyOrder": 7,
+      "category": "依附理論與早期照顧",
+      "kind": "core",
+      "keywords": [
+        "Ainsworth",
+        "陌生情境測驗",
+        "安全型依附",
+        "逃避型依附",
+        "矛盾型依附",
+        "錯亂型依附",
+        "重聚反應"
+      ],
+      "summary": "陌生情境測驗、四種依附類型與重聚反應",
+      "relatedNote": null,
+      "relatedChapters": [
+        "6"
+      ],
+      "src": "assets/ch06_08.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-06",
+        "img-6-09",
+        "img-6-10"
+      ],
+      "thumb": "assets/thumbs/ch06_08.webp"
+    },
+    {
+      "id": "img-6-09",
+      "chapter": "6",
+      "title": "依附類型與照顧、探索的關係",
+      "filename": "ch06_09.jpg",
+      "originalNumber": "09",
+      "studyOrder": 8,
+      "category": "依附理論與早期照顧",
+      "kind": "core",
+      "keywords": [
+        "敏感回應",
+        "依附安全感",
+        "探索行為",
+        "安全基地",
+        "照顧互動",
+        "依附類型"
+      ],
+      "summary": "照顧者敏感回應、依附安全感與探索調整",
+      "relatedNote": null,
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch06_09.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-06",
+        "img-6-08",
+        "img-5-02"
+      ],
+      "thumb": "assets/thumbs/ch06_09.webp"
+    },
+    {
+      "id": "img-6-10",
+      "chapter": "6",
+      "title": "依附焦慮與後天安全型依附",
+      "filename": "ch06_10.jpg",
+      "originalNumber": "10",
+      "studyOrder": 9,
+      "category": "依附理論與早期照顧",
+      "kind": "core",
+      "keywords": [
+        "陌生人焦慮",
+        "分離焦慮",
+        "後天安全型依附",
+        "Earned Security",
+        "依附",
+        "安全感"
+      ],
+      "summary": "陌生人焦慮、分離焦慮、後天安全型依附",
+      "relatedNote": null,
+      "relatedChapters": [
+        "6"
+      ],
+      "src": "assets/ch06_10.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-08",
+        "img-6-09"
+      ],
+      "thumb": "assets/thumbs/ch06_10.webp"
+    },
+    {
+      "id": "img-6-11",
+      "chapter": "6",
+      "title": "自律與順從的發展",
+      "filename": "ch06_11.jpg",
+      "originalNumber": "11",
+      "studyOrder": 12,
+      "category": "社會情緒學習與自我調節",
+      "kind": "core",
+      "keywords": [
+        "自律",
+        "Self-Regulation",
+        "順從",
+        "Kochanska",
+        "承諾式順從",
+        "情境式順從",
+        "規範內化"
+      ],
+      "summary": "承諾式與情境式順從、規範內化",
+      "relatedNote": null,
+      "relatedChapters": [
+        "5"
+      ],
+      "src": "assets/ch06_11.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-04",
+        "img-6-05",
+        "img-6-12"
+      ],
+      "thumb": "assets/thumbs/ch06_11.webp"
+    },
+    {
+      "id": "img-6-12",
+      "chapter": "6",
+      "title": "延後享樂與自我控制研究",
+      "filename": "ch06_12.jpg",
+      "originalNumber": "12",
+      "studyOrder": 13,
+      "category": "社會情緒學習與自我調節",
+      "kind": "core",
+      "keywords": [
+        "延後享樂",
+        "Mischel",
+        "自我控制",
+        "注意力分散",
+        "認知轉換",
+        "自我指導",
+        "環境可靠性"
+      ],
+      "summary": "Mischel 延後享樂、注意轉移與自我指導",
+      "relatedNote": null,
+      "relatedChapters": [
+        "3-4"
+      ],
+      "src": "assets/ch06_12.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-11",
+        "img-4-04"
+      ],
+      "thumb": "assets/thumbs/ch06_12.webp"
+    },
+    {
+      "id": "img-6-13",
+      "chapter": "6",
+      "title": "兒童虐待與疏忽的類型",
+      "filename": "ch06_13.jpg",
+      "originalNumber": "13",
+      "studyOrder": 14,
+      "category": "兒少保護與教檢應用",
+      "kind": "core",
+      "keywords": [
+        "兒童不當對待",
+        "兒童虐待",
+        "身體虐待",
+        "精神虐待",
+        "性虐待",
+        "疏忽",
+        "兒少保護"
+      ],
+      "summary": "身體、精神、性虐待與疏忽的概念辨識",
+      "relatedNote": null,
+      "relatedChapters": [],
+      "src": "assets/ch06_13.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-14",
+        "img-6-15",
+        "img-6-16"
+      ],
+      "thumb": "assets/thumbs/ch06_13.webp"
+    },
+    {
+      "id": "img-6-14",
+      "chapter": "6",
+      "title": "兒童不當對待的風險因素",
+      "filename": "ch06_14.jpg",
+      "originalNumber": "14",
+      "studyOrder": 15,
+      "category": "兒少保護與教檢應用",
+      "kind": "core",
+      "keywords": [
+        "不當對待風險",
+        "照顧者因素",
+        "家庭因素",
+        "社區因素",
+        "保護因子",
+        "2024年統計"
+      ],
+      "summary": "照顧者、家庭與社區風險及保護條件",
+      "relatedNote": null,
+      "relatedChapters": [],
+      "src": "assets/ch06_14.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-13",
+        "img-6-15"
+      ],
+      "thumb": "assets/thumbs/ch06_14.webp"
+    },
+    {
+      "id": "img-6-15",
+      "chapter": "6",
+      "title": "疑似受虐的辨識與兒童支持",
+      "filename": "ch06_15.jpg",
+      "originalNumber": "15",
+      "studyOrder": 16,
+      "category": "兒少保護與教檢應用",
+      "kind": "application",
+      "keywords": [
+        "疑似受虐",
+        "身體徵兆",
+        "情緒徵兆",
+        "疏忽",
+        "客觀記錄",
+        "溫和傾聽",
+        "安全保護"
+      ],
+      "summary": "身體、照顧及情緒行為警訊、教師初步關懷",
+      "relatedNote": null,
+      "relatedChapters": [],
+      "src": "assets/ch06_15.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-13",
+        "img-6-16"
+      ],
+      "thumb": "assets/thumbs/ch06_15.webp"
+    },
+    {
+      "id": "img-6-16",
+      "chapter": "6",
+      "title": "兒少保護法規與教師通報責任",
+      "filename": "ch06_16.jpg",
+      "originalNumber": "16",
+      "studyOrder": 17,
+      "category": "兒少保護與教檢應用",
+      "kind": "application",
+      "keywords": [
+        "兒少權益保障法",
+        "兒少保護",
+        "通報責任",
+        "24小時",
+        "第49條",
+        "第53條",
+        "第100條",
+        "教師通報"
+      ],
+      "summary": "兒少保護法規、依法通報與專業支持",
+      "relatedNote": null,
+      "relatedChapters": [],
+      "src": "assets/ch06_16.jpg",
+      "status": "built-in",
+      "mime": "image/jpeg",
+      "relatedCards": [
+        "img-6-13",
+        "img-6-15"
+      ],
+      "thumb": "assets/thumbs/ch06_16.webp"
+    }
+  ]
+}
