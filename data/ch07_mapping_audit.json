@@ -1,0 +1,184 @@
+{
+  "01": {
+    "photo": "img-7-01",
+    "note": "7-01",
+    "historical_questions": [
+      "106-MC-20"
+    ],
+    "self_authored_questions": [
+      "C7-001",
+      "C7-002"
+    ]
+  },
+  "02": {
+    "photo": "img-7-02",
+    "note": "7-02",
+    "historical_questions": [],
+    "self_authored_questions": [
+      "C7-003",
+      "C7-004"
+    ]
+  },
+  "03": {
+    "photo": "img-7-03",
+    "note": "7-03",
+    "historical_questions": [
+      "106-MC-13",
+      "1082-MC-02",
+      "109-MC-23",
+      "115-MC-21",
+      "114-MC-19"
+    ],
+    "self_authored_questions": [
+      "C7-005",
+      "C7-006"
+    ]
+  },
+  "04": {
+    "photo": "img-7-04",
+    "note": "7-04",
+    "historical_questions": [],
+    "self_authored_questions": [
+      "C7-007",
+      "C7-008"
+    ]
+  },
+  "05": {
+    "photo": "img-7-05",
+    "note": "7-05",
+    "historical_questions": [
+      "112-MC-11"
+    ],
+    "self_authored_questions": [
+      "C7-009",
+      "C7-010"
+    ]
+  },
+  "06": {
+    "photo": "img-7-06",
+    "note": "7-06",
+    "historical_questions": [
+      "1081-MC-13",
+      "113-MC-02"
+    ],
+    "self_authored_questions": [
+      "C7-011",
+      "C7-012"
+    ]
+  },
+  "07": {
+    "photo": "img-7-07",
+    "note": "7-07",
+    "historical_questions": [
+      "1081-MC-13"
+    ],
+    "self_authored_questions": [
+      "C7-013",
+      "C7-014",
+      "C7-015",
+      "C7-016"
+    ]
+  },
+  "08": {
+    "photo": "img-7-08",
+    "note": "7-08",
+    "historical_questions": [
+      "113-MC-02",
+      "114-MC-19"
+    ],
+    "self_authored_questions": [
+      "C7-017",
+      "C7-018"
+    ]
+  },
+  "09": {
+    "photo": "img-7-09",
+    "note": "7-09",
+    "historical_questions": [
+      "113-MC-06"
+    ],
+    "self_authored_questions": [
+      "C7-019",
+      "C7-020"
+    ]
+  },
+  "10": {
+    "photo": "img-7-10",
+    "note": "7-10",
+    "historical_questions": [
+      "113-MC-06"
+    ],
+    "self_authored_questions": [
+      "C7-021",
+      "C7-022"
+    ]
+  },
+  "11": {
+    "photo": "img-7-11",
+    "note": "7-11",
+    "historical_questions": [
+      "112-MC-11"
+    ],
+    "self_authored_questions": [
+      "C7-023",
+      "C7-024"
+    ]
+  },
+  "12": {
+    "photo": "img-7-12",
+    "note": "7-12",
+    "historical_questions": [
+      "115-MC-21"
+    ],
+    "self_authored_questions": [
+      "C7-025",
+      "C7-026"
+    ]
+  },
+  "13": {
+    "photo": "img-7-13",
+    "note": "7-13",
+    "historical_questions": [
+      "106-MC-03",
+      "109-MC-13"
+    ],
+    "self_authored_questions": [
+      "C7-027",
+      "C7-028"
+    ]
+  },
+  "14": {
+    "photo": "img-7-14",
+    "note": "7-14",
+    "historical_questions": [
+      "1081-MC-21",
+      "109-MC-13"
+    ],
+    "self_authored_questions": [
+      "C7-029",
+      "C7-030"
+    ]
+  },
+  "15": {
+    "photo": "img-7-15",
+    "note": "7-15",
+    "historical_questions": [
+      "1081-MC-08",
+      "111-MC-15",
+      "113-MC-13"
+    ],
+    "self_authored_questions": [
+      "C7-031",
+      "C7-032"
+    ]
+  },
+  "16": {
+    "photo": "img-7-16",
+    "note": "7-16",
+    "historical_questions": [],
+    "self_authored_questions": [
+      "C7-033",
+      "C7-034"
+    ]
+  }
+}

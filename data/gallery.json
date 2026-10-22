@@ -1939,5 +1939,498 @@
       "img-6-15"
     ],
     "thumb": "assets/thumbs/ch06_16.webp"
+  },
+  {
+    "id": "img-7-01",
+    "chapter": "7",
+    "title": "腦部與神經系統發展",
+    "filename": "ch07_01.jpg",
+    "originalNumber": "01",
+    "studyOrder": 1,
+    "category": "身體與神經成熟",
+    "kind": "core",
+    "keywords": [
+      "腦部重量",
+      "腦容量",
+      "前額葉皮質",
+      "髓鞘化",
+      "胼胝體"
+    ],
+    "summary": "兒童期早期的神經成熟仍在持續，腦部大小與功能成熟不能畫上等號。",
+    "relatedNote": "7-01",
+    "relatedChapters": [
+      "3-4",
+      "2"
+    ],
+    "src": "assets/ch07_01.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-4-02",
+      "img-4-03",
+      "img-4-04"
+    ],
+    "thumb": "assets/thumbs/ch07_01.webp"
+  },
+  {
+    "id": "img-7-02",
+    "chapter": "7",
+    "title": "動作技能、偏手性與繪畫發展",
+    "filename": "ch07_02.jpg",
+    "originalNumber": "02",
+    "studyOrder": 2,
+    "category": "身體與神經成熟",
+    "kind": "core",
+    "keywords": [
+      "大肌肉",
+      "小肌肉",
+      "偏手性",
+      "手眼協調",
+      "繪畫"
+    ],
+    "summary": "兒童期早期大肌肉與小肌肉動作持續精緻化，逐漸展現偏手性及象徵性繪畫。",
+    "relatedNote": "7-02",
+    "relatedChapters": [
+      "3-4"
+    ],
+    "src": "assets/ch07_02.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-4-07",
+      "img-7-04"
+    ],
+    "thumb": "assets/thumbs/ch07_02.webp"
+  },
+  {
+    "id": "img-7-03",
+    "chapter": "7",
+    "title": "皮亞傑的認知發展四階段",
+    "filename": "ch07_03.jpg",
+    "originalNumber": "03",
+    "studyOrder": 3,
+    "category": "前運思期的認知發展",
+    "kind": "core",
+    "keywords": [
+      "Piaget",
+      "前運思期",
+      "具體運思",
+      "符號表徵"
+    ],
+    "summary": "皮亞傑以認知結構的質性變化解釋兒童如何由感覺動作進展至抽象思考。",
+    "relatedNote": "7-03",
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch07_03.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-2-10",
+      "img-7-04"
+    ],
+    "thumb": "assets/thumbs/ch07_03.webp"
+  },
+  {
+    "id": "img-7-04",
+    "chapter": "7",
+    "title": "前運思期的認知能力進展（一）",
+    "filename": "ch07_04.jpg",
+    "originalNumber": "04",
+    "studyOrder": 4,
+    "category": "前運思期的認知發展",
+    "kind": "core",
+    "keywords": [
+      "象徵功能",
+      "同一性",
+      "因果理解",
+      "分類",
+      "空間理解"
+    ],
+    "summary": "前運思期不只是「能力不足」，兒童已能使用符號、初步分類並探索因果及空間關係。",
+    "relatedNote": "7-04",
+    "relatedChapters": [
+      "2",
+      "5"
+    ],
+    "src": "assets/ch07_04.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-05",
+      "img-7-06"
+    ],
+    "thumb": "assets/thumbs/ch07_04.webp"
+  },
+  {
+    "id": "img-7-05",
+    "chapter": "7",
+    "title": "前運思期的認知能力進展（二）",
+    "filename": "ch07_05.jpg",
+    "originalNumber": "05",
+    "studyOrder": 5,
+    "category": "前運思期的認知發展",
+    "kind": "core",
+    "keywords": [
+      "數目理解",
+      "同理心",
+      "心智理論",
+      "他人信念"
+    ],
+    "summary": "數目理解、同理心與心智理論在學前階段持續發展，並非具備其中一項就表示其他能力成熟。",
+    "relatedNote": "7-05",
+    "relatedChapters": [
+      "2",
+      "6"
+    ],
+    "src": "assets/ch07_05.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-11",
+      "img-7-13"
+    ],
+    "thumb": "assets/thumbs/ch07_05.webp"
+  },
+  {
+    "id": "img-7-06",
+    "chapter": "7",
+    "title": "前運思期的七項認知限制",
+    "filename": "ch07_06.jpg",
+    "originalNumber": "06",
+    "studyOrder": 6,
+    "category": "認知限制與觀點取替",
+    "kind": "core",
+    "keywords": [
+      "集中化",
+      "不可逆性",
+      "橫跨式推理",
+      "自我中心",
+      "泛靈論",
+      "表象真實"
+    ],
+    "summary": "皮亞傑用多項典型特徵描述前運思期的推理侷限，應依任務表現辨識，而非貼標籤。",
+    "relatedNote": "7-06",
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch07_06.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-07",
+      "img-7-12"
+    ],
+    "thumb": "assets/thumbs/ch07_06.webp"
+  },
+  {
+    "id": "img-7-07",
+    "chapter": "7",
+    "title": "容易混淆的認知限制比較",
+    "filename": "ch07_07.jpg",
+    "originalNumber": "07",
+    "studyOrder": 7,
+    "category": "認知限制與觀點取替",
+    "kind": "core",
+    "keywords": [
+      "認知限制比較",
+      "集中化",
+      "不可逆",
+      "泛靈論",
+      "自我中心"
+    ],
+    "summary": "同一個錯誤答案可能源於不同思考困難，辨識概念時要看兒童採用的推理線索。",
+    "relatedNote": "7-07",
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch07_07.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-06",
+      "img-7-08"
+    ],
+    "thumb": "assets/thumbs/ch07_07.webp"
+  },
+  {
+    "id": "img-7-08",
+    "chapter": "7",
+    "title": "守恆概念與三種推理依據",
+    "filename": "ch07_08.jpg",
+    "originalNumber": "08",
+    "studyOrder": 10,
+    "category": "守恆概念與經典實驗",
+    "kind": "core",
+    "keywords": [
+      "守恆",
+      "同一性",
+      "可逆性",
+      "補償性",
+      "倒水"
+    ],
+    "summary": "守恆是理解在沒有增加或減少的情況下，外形或排列改變不一定改變原有的量。",
+    "relatedNote": "7-08",
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch07_08.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-09",
+      "img-7-10"
+    ],
+    "thumb": "assets/thumbs/ch07_08.webp"
+  },
+  {
+    "id": "img-7-09",
+    "chapter": "7",
+    "title": "七類守恆概念與經典實驗",
+    "filename": "ch07_09.jpg",
+    "originalNumber": "09",
+    "studyOrder": 11,
+    "category": "守恆概念與經典實驗",
+    "kind": "core",
+    "keywords": [
+      "七類守恆",
+      "數目",
+      "長度",
+      "液體",
+      "質量",
+      "重量",
+      "區域",
+      "容量"
+    ],
+    "summary": "不同守恆能力可透過不同材料及轉換檢驗，需先確保起點確實等量。",
+    "relatedNote": "7-09",
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch07_09.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-08",
+      "img-7-10"
+    ],
+    "thumb": "assets/thumbs/ch07_09.webp"
+  },
+  {
+    "id": "img-7-10",
+    "chapter": "7",
+    "title": "守恆發展順序與教檢應用",
+    "filename": "ch07_10.jpg",
+    "originalNumber": "10",
+    "studyOrder": 12,
+    "category": "守恆概念與經典實驗",
+    "kind": "application",
+    "keywords": [
+      "113年教檢",
+      "守恆順序",
+      "數量",
+      "長度",
+      "重量",
+      "體積"
+    ],
+    "summary": "教材依指定守恆項目討論發展先後，考試作答須忠於題目給定的四項，而非套用完整七類順序。",
+    "relatedNote": "7-10",
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch07_10.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-09",
+      "img-2-19"
+    ],
+    "thumb": "assets/thumbs/ch07_10.webp"
+  },
+  {
+    "id": "img-7-11",
+    "chapter": "7",
+    "title": "自我中心思維與觀點取替實驗",
+    "filename": "ch07_11.jpg",
+    "originalNumber": "11",
+    "studyOrder": 8,
+    "category": "認知限制與觀點取替",
+    "kind": "core",
+    "keywords": [
+      "三山問題",
+      "警官實驗",
+      "Hughes",
+      "觀點取替",
+      "自我中心"
+    ],
+    "summary": "前運思期兒童在抽象觀點取替任務上可能受限，熟悉而具體的情境卻可能展現較佳能力。",
+    "relatedNote": "7-11",
+    "relatedChapters": [
+      "2",
+      "6"
+    ],
+    "src": "assets/ch07_11.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-05",
+      "img-7-12"
+    ],
+    "thumb": "assets/thumbs/ch07_11.webp"
+  },
+  {
+    "id": "img-7-12",
+    "chapter": "7",
+    "title": "前運思期的思維特徵與理論反思",
+    "filename": "ch07_12.jpg",
+    "originalNumber": "12",
+    "studyOrder": 9,
+    "category": "認知限制與觀點取替",
+    "kind": "core",
+    "keywords": [
+      "橫跨式推理",
+      "泛靈論",
+      "三山問題",
+      "Hughes",
+      "理論反思"
+    ],
+    "summary": "橫跨式推理、泛靈論等是典型描述，但後續研究也凸顯情境與任務要求的重要。",
+    "relatedNote": "7-12",
+    "relatedChapters": [
+      "2"
+    ],
+    "src": "assets/ch07_12.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-11",
+      "img-7-06"
+    ],
+    "thumb": "assets/thumbs/ch07_12.webp"
+  },
+  {
+    "id": "img-7-13",
+    "chapter": "7",
+    "title": "兒童早期的語言發展",
+    "filename": "ch07_13.jpg",
+    "originalNumber": "13",
+    "studyOrder": 13,
+    "category": "語言發展與自我調節",
+    "kind": "core",
+    "keywords": [
+      "快速配對",
+      "詞彙",
+      "語法",
+      "語用",
+      "語言發展"
+    ],
+    "summary": "兒童在三至六歲持續累積詞彙、語法規則與情境溝通能力。",
+    "relatedNote": "7-13",
+    "relatedChapters": [
+      "5"
+    ],
+    "src": "assets/ch07_13.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-5-04",
+      "img-7-14"
+    ],
+    "thumb": "assets/thumbs/ch07_13.webp"
+  },
+  {
+    "id": "img-7-14",
+    "chapter": "7",
+    "title": "語言學習的重要概念與策略",
+    "filename": "ch07_14.jpg",
+    "originalNumber": "14",
+    "studyOrder": 14,
+    "category": "語言發展與自我調節",
+    "kind": "core",
+    "keywords": [
+      "擴展",
+      "快速配對",
+      "後設語言覺知",
+      "語碼轉換",
+      "句法提攜",
+      "語義提攜"
+    ],
+    "summary": "兒童語言學習不只靠記詞，也依賴成人回應、對規則的覺察與不同線索的推理。",
+    "relatedNote": "7-14",
+    "relatedChapters": [
+      "5"
+    ],
+    "src": "assets/ch07_14.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-5-05",
+      "img-7-13"
+    ],
+    "thumb": "assets/thumbs/ch07_14.webp"
+  },
+  {
+    "id": "img-7-15",
+    "chapter": "7",
+    "title": "私我語言與自我調節",
+    "filename": "ch07_15.jpg",
+    "originalNumber": "15",
+    "studyOrder": 15,
+    "category": "語言發展與自我調節",
+    "kind": "core",
+    "keywords": [
+      "私我語言",
+      "Piaget",
+      "Vygotsky",
+      "語言內化",
+      "自我調節"
+    ],
+    "summary": "兒童對自己說話可能承擔計畫、引導與調節的功能；不同學者解讀並不相同。",
+    "relatedNote": "7-15",
+    "relatedChapters": [
+      "2",
+      "5",
+      "6"
+    ],
+    "src": "assets/ch07_15.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-2-11",
+      "img-5-09",
+      "img-5-11"
+    ],
+    "thumb": "assets/thumbs/ch07_15.webp"
+  },
+  {
+    "id": "img-7-16",
+    "chapter": "7",
+    "title": "促進認知與語言發展的教育支持",
+    "filename": "ch07_16.jpg",
+    "originalNumber": "16",
+    "studyOrder": 16,
+    "category": "教育支持與教檢應用",
+    "kind": "application",
+    "keywords": [
+      "親子共讀",
+      "閱讀準備",
+      "運動",
+      "補償教育",
+      "Head Start"
+    ],
+    "summary": "閱讀、社會互動、運動及適切補償教育能提供多元學習經驗，但效果依情境與支持持續性而異。",
+    "relatedNote": "7-16",
+    "relatedChapters": [
+      "5",
+      "6"
+    ],
+    "src": "assets/ch07_16.jpg",
+    "status": "built-in",
+    "mime": "image/jpeg",
+    "relatedCards": [
+      "img-7-13",
+      "img-7-02"
+    ],
+    "thumb": "assets/thumbs/ch07_16.webp"
   }
 ]
