@@ -1,0 +1,286 @@
+{
+  "version": "2.9.0",
+  "chapter8_count": 31,
+  "total_gallery_count": 113,
+  "images": [
+    {
+      "note": "01",
+      "title": "自我概念與自我界定",
+      "source_upload": "36B25898-DB74-4A93-9B42-E883A202FA32(1).jpeg",
+      "filename": "ch08_01.jpg",
+      "bytes": 820248,
+      "sha256": "84e066036d3269a151151a5ae33123f566a1f350388ec0cbe17d3229e44ad8cd",
+      "thumb": "assets/thumbs/ch08_01.webp"
+    },
+    {
+      "note": "02",
+      "title": "自我表徵的三階段發展",
+      "source_upload": "0A42948B-9F45-467D-A0FC-2AFEED921BD1(1).jpeg",
+      "filename": "ch08_02.jpg",
+      "bytes": 796865,
+      "sha256": "57a62ab4d6dd3abd963ecfae13f36b6fba62628aeafd1cdc2d74e67392204e12",
+      "thumb": "assets/thumbs/ch08_02.webp"
+    },
+    {
+      "note": "03",
+      "title": "積極主動對罪惡感",
+      "source_upload": "16F355DD-2B4E-44D1-97BC-B355CED89A0A(1).jpeg",
+      "filename": "ch08_03.jpg",
+      "bytes": 756015,
+      "sha256": "c74cc0b608f872ddd98c4b5768d8a68ffa827e216545bca8bda1de2c5f51b996",
+      "thumb": "assets/thumbs/ch08_03.webp"
+    },
+    {
+      "note": "04",
+      "title": "性別發展的核心概念",
+      "source_upload": "27035B22-5115-4E51-988A-E61D986303A9(1).jpeg",
+      "filename": "ch08_04.jpg",
+      "bytes": 871741,
+      "sha256": "bc0846a7225e7878748c00aefb13b38b952984b5acb0c6cfe166bdd3eeb53be5",
+      "thumb": "assets/thumbs/ch08_04.webp"
+    },
+    {
+      "note": "05",
+      "title": "性別發展的六種理論",
+      "source_upload": "5A99741A-1212-47F2-8B32-B75468A1AC24(1).jpeg",
+      "filename": "ch08_05.jpg",
+      "bytes": 859517,
+      "sha256": "c1077f439f7055796f5fa0d13d0f07266e6ce0bb7f12ac68d126d1871e44ae1c",
+      "thumb": "assets/thumbs/ch08_05.webp"
+    },
+    {
+      "note": "06",
+      "title": "柯爾柏格性別恆定三階段",
+      "source_upload": "7CE9F319-EA61-40BE-B3DB-5E4011B9E455(1).jpeg",
+      "filename": "ch08_06.jpg",
+      "bytes": 867269,
+      "sha256": "ada0ca3e113c0d7f823551d21a068be5f10c7bcd91dfd46276f4af538e2db439",
+      "thumb": "assets/thumbs/ch08_06.webp"
+    },
+    {
+      "note": "07",
+      "title": "性別刻板印象與社會化",
+      "source_upload": "8EB5A79E-7D8E-4288-81CD-BA915AFA544D(2).jpeg",
+      "filename": "ch08_07.jpg",
+      "bytes": 866163,
+      "sha256": "4d12b74540f65ae519b19c10e9fd1e5e785dd17665854fea0154e722c077bac0",
+      "thumb": "assets/thumbs/ch08_07.webp"
+    },
+    {
+      "note": "08",
+      "title": "兒童性別認同與教育支持",
+      "source_upload": "6CF94F90-44F2-4947-9951-A48ECDFB2C27(2).jpeg",
+      "filename": "ch08_08.jpg",
+      "bytes": 872329,
+      "sha256": "aef622af2b97e377cc47b57c34bc7b53cffac90bc6d10b0b322917bb67609b01",
+      "thumb": "assets/thumbs/ch08_08.webp"
+    },
+    {
+      "note": "09",
+      "title": "四種遊戲形式",
+      "source_upload": "FC7A096D-B882-4352-8349-65CA47E0E32D.jpeg",
+      "filename": "ch08_09.jpg",
+      "bytes": 758624,
+      "sha256": "60ba7385aefd9bc9b9612586a2eb1965b1f4a638a1dfa6a3aee9a9aede3b97ac",
+      "thumb": "assets/thumbs/ch08_09.webp"
+    },
+    {
+      "note": "10",
+      "title": "帕頓六種社會性遊戲",
+      "source_upload": "554AC8E1-A9EB-40AC-B3EB-B269EFA83DEC.jpeg",
+      "filename": "ch08_10.jpg",
+      "bytes": 863596,
+      "sha256": "c951c9528343aa9cee7e4fa3672806b26687ae7fa50467df854761eb7ccac451",
+      "thumb": "assets/thumbs/ch08_10.webp"
+    },
+    {
+      "note": "11",
+      "title": "三位學者的遊戲理論比較",
+      "source_upload": "9C7BB65C-6D43-42AE-8E1B-FE166864DD3F.jpeg",
+      "filename": "ch08_11.jpg",
+      "bytes": 867214,
+      "sha256": "0214a7c03b2b069e9538552699156ef1a3540f970c8da0821c41cd693035da73",
+      "thumb": "assets/thumbs/ch08_11.webp"
+    },
+    {
+      "note": "12",
+      "title": "遊戲中的性別與文化影響",
+      "source_upload": "847D60DE-3222-4D16-8A94-4EE3C389ABF6.jpeg",
+      "filename": "ch08_12.jpg",
+      "bytes": 826718,
+      "sha256": "85086e4871dfd0bb25422692e2e92284d34d49738d300775402f3d028447e5c6",
+      "thumb": "assets/thumbs/ch08_12.webp"
+    },
+    {
+      "note": "13",
+      "title": "同儕關係與利社會行為",
+      "source_upload": "08-13.jpeg",
+      "filename": "ch08_13.jpg",
+      "bytes": 893961,
+      "sha256": "832616f29c4d158996f2f289ef9718f4de39cc4abd114b98724e7ce5423aed39",
+      "thumb": "assets/thumbs/ch08_13.webp"
+    },
+    {
+      "note": "14",
+      "title": "四種親職教養風格",
+      "source_upload": "A04CD300-9167-4530-A244-7D35E10A481B.jpeg",
+      "filename": "ch08_14.jpg",
+      "bytes": 831361,
+      "sha256": "7005e1d92727ad922c072e3dc50befc8a3f06ce38632be71a672c8b58c035a43",
+      "thumb": "assets/thumbs/ch08_14.webp"
+    },
+    {
+      "note": "15",
+      "title": "兒童管教、懲罰與體罰",
+      "source_upload": "84B55096-427F-43C6-A357-E685DB05BDB0.jpeg",
+      "filename": "ch08_15.jpg",
+      "bytes": 890351,
+      "sha256": "e6940e5c8e8b31fbc2bc1f8a19b3b31afccb06ad29f4b53dd8eba0a344072e3d",
+      "thumb": "assets/thumbs/ch08_15.webp"
+    },
+    {
+      "note": "16",
+      "title": "直升機父母與小飛俠症候群",
+      "source_upload": "A53B5175-366E-4ECA-AFE1-E51856309B1D.jpeg",
+      "filename": "ch08_16.jpg",
+      "bytes": 897797,
+      "sha256": "9b3651e6a828bed40fff50664fe7c8e9ef0686194ca802e5703aed6bec724802",
+      "thumb": "assets/thumbs/ch08_16.webp"
+    },
+    {
+      "note": "17",
+      "title": "Bowen 家庭系統與三角關係",
+      "source_upload": "0DB182AC-24DD-4CB6-B002-5439D4BD661A.jpeg",
+      "filename": "ch08_17.jpg",
+      "bytes": 875790,
+      "sha256": "506b76a07462de187ba5326f568fef4aa7ed1419e089889aa88a8efc4f254c1e",
+      "thumb": "assets/thumbs/ch08_17.webp"
+    },
+    {
+      "note": "18",
+      "title": "現代親職焦慮與家庭社經差異",
+      "source_upload": "7B17B85C-5BBF-4916-89B1-1A8DDCA22276.jpeg",
+      "filename": "ch08_18.jpg",
+      "bytes": 919360,
+      "sha256": "64a137bba665eba979424c97a89884ec7648e128fed9356ec1e310bcf52c466d",
+      "thumb": "assets/thumbs/ch08_18.webp"
+    },
+    {
+      "note": "19",
+      "title": "兒童攻擊行為的基本分類",
+      "source_upload": "1A2F6BDB-D6C0-456D-B236-057A9B7AB6D9.jpeg",
+      "filename": "ch08_19.jpg",
+      "bytes": 799936,
+      "sha256": "c15303498ec8b8ffa8f30ea095c5d5930662f1efe506d20e0a63f7e0101111b6",
+      "thumb": "assets/thumbs/ch08_19.webp"
+    },
+    {
+      "note": "20",
+      "title": "攻擊行為的進階分類",
+      "source_upload": "B77DE516-6713-49BB-A52D-FE15BB29CE8C.jpeg",
+      "filename": "ch08_20.jpg",
+      "bytes": 829038,
+      "sha256": "f741e486b9dc9fee6e28d47f69841ab310acb8c1023c6d3b81e19b28473ca196",
+      "thumb": "assets/thumbs/ch08_20.webp"
+    },
+    {
+      "note": "21",
+      "title": "攻擊行為的形成與媒體影響",
+      "source_upload": "AFE605DC-5CEB-408E-9F83-A2C63640B87A.jpeg",
+      "filename": "ch08_21.jpg",
+      "bytes": 902339,
+      "sha256": "bfc6ad11b1be766be66a062461a35cc51249220df10acc41e2f38f9cdfb17f74",
+      "thumb": "assets/thumbs/ch08_21.webp"
+    },
+    {
+      "note": "22",
+      "title": "網路使用、社群媒體與青少年幸福感",
+      "source_upload": "08-22.jpeg",
+      "filename": "ch08_22.jpg",
+      "bytes": 916485,
+      "sha256": "d5a13c667f0de885ea141e2e434bf896e35821b0ee6b63ce4a6f0a4501d6c70a",
+      "thumb": "assets/thumbs/ch08_22.webp"
+    },
+    {
+      "note": "23",
+      "title": "嚴重攻擊行為的多重風險因素",
+      "source_upload": "397762C6-D9C0-4A1C-B433-676F0A812AEA.jpeg",
+      "filename": "ch08_23.jpg",
+      "bytes": 904254,
+      "sha256": "c02c31667aebf9237109849f04f1d9fdeb2d4bec9990415d23346ad223b73c16",
+      "thumb": "assets/thumbs/ch08_23.webp"
+    },
+    {
+      "note": "24",
+      "title": "大腦發展與攻擊行為調節",
+      "source_upload": "802D757C-9CAA-4FDE-A581-55DB6A86C9C9.jpeg",
+      "filename": "ch08_24.jpg",
+      "bytes": 807184,
+      "sha256": "36cfceacc9040b7b7b18f38e6e10072419aa3014914d35cb6f1712020ec95b70",
+      "thumb": "assets/thumbs/ch08_24.webp"
+    },
+    {
+      "note": "25",
+      "title": "社會鍵理論、破窗理論與教育應用",
+      "source_upload": "10AEB31B-3D7D-4160-860E-A93D328DF8B5.jpeg",
+      "filename": "ch08_25.jpg",
+      "bytes": 877466,
+      "sha256": "5ee744803999e15aa94908f5aaf4918341f0dcb3ce3d2987ff729c044d63c4b0",
+      "thumb": "assets/thumbs/ch08_25.webp"
+    },
+    {
+      "note": "26",
+      "title": "校園霸凌辨識與防制",
+      "source_upload": "68A0DCB7-44AE-4242-B23A-DD699E53B95B.jpeg",
+      "filename": "ch08_26.jpg",
+      "bytes": 934788,
+      "sha256": "619869618d1bff7b8aa202e1be77263ba842839a24866cca856a08b3c065f7ee",
+      "thumb": "assets/thumbs/ch08_26.webp"
+    },
+    {
+      "note": "27",
+      "title": "校園霸凌事件處理程序",
+      "source_upload": "F21C4F14-5792-42CC-B595-B14BDEE0C972.jpeg",
+      "filename": "ch08_27.jpg",
+      "bytes": 916029,
+      "sha256": "042ac52ec50d487065b2312248d03358a33e3a34bc723a5800239ff67a725589",
+      "thumb": "assets/thumbs/ch08_27.webp"
+    },
+    {
+      "note": "28",
+      "title": "性平三法與校園性別事件",
+      "source_upload": "CFC41B22-750D-4DAD-9AA1-FB6CEB2223EF.jpeg",
+      "filename": "ch08_28.jpg",
+      "bytes": 865206,
+      "sha256": "4eec66529344e1bc334ceaaacc423a39052a64220049946975d05149e4d953c4",
+      "thumb": "assets/thumbs/ch08_28.webp"
+    },
+    {
+      "note": "29",
+      "title": "校園性別事件處理與教師保護責任",
+      "source_upload": "0A2A3DD2-309D-40F6-B908-17545DF6D125.jpeg",
+      "filename": "ch08_29.jpg",
+      "bytes": 964535,
+      "sha256": "9cb44f2af06ca01305972c1e60bebcdff9ba98830279a269161b08c7212d65e4",
+      "thumb": "assets/thumbs/ch08_29.webp"
+    },
+    {
+      "note": "30",
+      "title": "繪本性平教育與 4F 提問",
+      "source_upload": "3D464DE6-F529-45A1-8D4B-AA08216430A7.jpeg",
+      "filename": "ch08_30.jpg",
+      "bytes": 902162,
+      "sha256": "baa0486f23158c4e2f2697b17efb8a69f7cd1b64301120f974220370ab133c63",
+      "thumb": "assets/thumbs/ch08_30.webp"
+    },
+    {
+      "note": "31",
+      "title": "第八章教檢重點總整理",
+      "source_upload": "DF73FE47-7C01-440F-922C-107D3BD1C3D4.jpeg",
+      "filename": "ch08_31.jpg",
+      "bytes": 942037,
+      "sha256": "0d9776ba85a030bfb4aa5a7daa4d54ff79535d911009419a421f7d89db893441",
+      "thumb": "assets/thumbs/ch08_31.webp"
+    }
+  ]
+}

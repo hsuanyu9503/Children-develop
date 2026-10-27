@@ -1,0 +1,277 @@
+{
+  "summary": {
+    "notes": 31,
+    "images": 31,
+    "new_historical_mc": 23,
+    "new_essay_links": 8,
+    "other_chapter_overlaps_retained": [
+      {
+        "id": "111-MC-08",
+        "retained_chapter": "2",
+        "recommended_crosslink": "8-15"
+      },
+      {
+        "id": "114-MC-13",
+        "retained_chapter": "2",
+        "recommended_crosslink": "8-21"
+      }
+    ],
+    "reassigned_during_verification": [
+      {
+        "id": "115-MC-09",
+        "from": "8-01",
+        "to": "6-01",
+        "reason": "核心考點為情緒表達規則"
+      },
+      {
+        "id": "109-MC-20",
+        "from": "8-19",
+        "to": "2-13",
+        "reason": "核心考點為軼事紀錄與研究觀察"
+      }
+    ],
+    "cross_chapter_question_links": 2,
+    "historical_choice_questions_available_for_chapter8": 25
+  },
+  "notes": {
+    "01": {
+      "photo": "img-8-01",
+      "note": "8-01",
+      "historical_questions": [
+        "1081-MC-19",
+        "1082-MC-19"
+      ],
+      "historical_essays": []
+    },
+    "02": {
+      "photo": "img-8-02",
+      "note": "8-02",
+      "historical_questions": [
+        "110-MC-12"
+      ],
+      "historical_essays": []
+    },
+    "03": {
+      "photo": "img-8-03",
+      "note": "8-03",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "04": {
+      "photo": "img-8-04",
+      "note": "8-04",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "05": {
+      "photo": "img-8-05",
+      "note": "8-05",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "06": {
+      "photo": "img-8-06",
+      "note": "8-06",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "07": {
+      "photo": "img-8-07",
+      "note": "8-07",
+      "historical_questions": [],
+      "historical_essays": [
+        "109-SA-02"
+      ]
+    },
+    "08": {
+      "photo": "img-8-08",
+      "note": "8-08",
+      "historical_questions": [
+        "1082-MC-05"
+      ],
+      "historical_essays": []
+    },
+    "09": {
+      "photo": "img-8-09",
+      "note": "8-09",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "10": {
+      "photo": "img-8-10",
+      "note": "8-10",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "11": {
+      "photo": "img-8-11",
+      "note": "8-11",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "12": {
+      "photo": "img-8-12",
+      "note": "8-12",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "13": {
+      "photo": "img-8-13",
+      "note": "8-13",
+      "historical_questions": [
+        "106-MC-28",
+        "1082-MC-04",
+        "110-MC-11",
+        "110-MC-20",
+        "112-MC-25"
+      ],
+      "historical_essays": [
+        "113-CA-05"
+      ]
+    },
+    "14": {
+      "photo": "img-8-14",
+      "note": "8-14",
+      "historical_questions": [
+        "1082-MC-23",
+        "109-MC-27",
+        "109-MC-28"
+      ],
+      "historical_essays": [
+        "111-SA-01"
+      ]
+    },
+    "15": {
+      "photo": "img-8-15",
+      "note": "8-15",
+      "historical_questions": [
+        "111-MC-08",
+        "111-MC-24",
+        "112-MC-18",
+        "113-MC-07"
+      ],
+      "historical_essays": []
+    },
+    "16": {
+      "photo": "img-8-16",
+      "note": "8-16",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "17": {
+      "photo": "img-8-17",
+      "note": "8-17",
+      "historical_questions": [
+        "1081-MC-25"
+      ],
+      "historical_essays": []
+    },
+    "18": {
+      "photo": "img-8-18",
+      "note": "8-18",
+      "historical_questions": [
+        "1081-MC-09"
+      ],
+      "historical_essays": [
+        "1081-SA-04"
+      ]
+    },
+    "19": {
+      "photo": "img-8-19",
+      "note": "8-19",
+      "historical_questions": [
+        "1082-MC-25",
+        "110-MC-17"
+      ],
+      "historical_essays": [
+        "106-SA-01"
+      ]
+    },
+    "20": {
+      "photo": "img-8-20",
+      "note": "8-20",
+      "historical_questions": [
+        "112-MC-23"
+      ],
+      "historical_essays": []
+    },
+    "21": {
+      "photo": "img-8-21",
+      "note": "8-21",
+      "historical_questions": [
+        "110-MC-05",
+        "114-MC-13"
+      ],
+      "historical_essays": [
+        "1081-SA-01",
+        "115-SA-02"
+      ]
+    },
+    "22": {
+      "photo": "img-8-22",
+      "note": "8-22",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "23": {
+      "photo": "img-8-23",
+      "note": "8-23",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "24": {
+      "photo": "img-8-24",
+      "note": "8-24",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "25": {
+      "photo": "img-8-25",
+      "note": "8-25",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "26": {
+      "photo": "img-8-26",
+      "note": "8-26",
+      "historical_questions": [
+        "111-MC-07"
+      ],
+      "historical_essays": [
+        "113-CA-06"
+      ]
+    },
+    "27": {
+      "photo": "img-8-27",
+      "note": "8-27",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "28": {
+      "photo": "img-8-28",
+      "note": "8-28",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "29": {
+      "photo": "img-8-29",
+      "note": "8-29",
+      "historical_questions": [
+        "113-MC-11"
+      ],
+      "historical_essays": []
+    },
+    "30": {
+      "photo": "img-8-30",
+      "note": "8-30",
+      "historical_questions": [],
+      "historical_essays": []
+    },
+    "31": {
+      "photo": "img-8-31",
+      "note": "8-31",
+      "historical_questions": [],
+      "historical_essays": []
+    }
+  }
+}
